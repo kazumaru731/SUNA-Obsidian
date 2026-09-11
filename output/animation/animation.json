@@ -1,0 +1,11 @@
+{
+  "fps": 24,
+  "frames": 144,
+  "durationSeconds": 6,
+  "resolution": [
+    640,
+    800
+  ],
+  "sourceTimelineSeconds": 10,
+  "note": "Six second presentation of the normalized timer; master remains 10 seconds at 24 fps."
+}

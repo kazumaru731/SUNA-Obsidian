@@ -1,0 +1,15 @@
+# Blender and Python workspace artifacts
+__pycache__/
+*.blend1
+optix7cache.db*
+*.log
+
+# Delivery archive duplicates the repository contents.
+output/SUNA_Obsidian_delivery.zip
+
+# The MP4/GIF are the portable previews; keep their source frame sequence local.
+output/animation/frame_*.png
+
+# Temporary visual checks.
+output/checks/first_preview.png
+output/checks/encoded_frame_*.png

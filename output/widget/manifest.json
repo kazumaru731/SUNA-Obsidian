@@ -1,0 +1,41 @@
+{
+  "name": "SUNA Obsidian",
+  "format": "RGBA PNG / sRGB",
+  "size": [
+    1024,
+    1024
+  ],
+  "glass": "Transparent-film glass, studio reflection retained",
+  "states": [
+    {
+      "remainingFraction": 1.0,
+      "elapsedFraction": 0.0,
+      "frame": 1.0,
+      "file": "suna_remaining_100.png"
+    },
+    {
+      "remainingFraction": 0.75,
+      "elapsedFraction": 0.25,
+      "frame": 61.0,
+      "file": "suna_remaining_075.png"
+    },
+    {
+      "remainingFraction": 0.5,
+      "elapsedFraction": 0.5,
+      "frame": 121.0,
+      "file": "suna_remaining_050.png"
+    },
+    {
+      "remainingFraction": 0.25,
+      "elapsedFraction": 0.75,
+      "frame": 181.0,
+      "file": "suna_remaining_025.png"
+    },
+    {
+      "remainingFraction": 0.0,
+      "elapsedFraction": 1.0,
+      "frame": 241.0,
+      "file": "suna_remaining_000.png"
+    }
+  ]
+}

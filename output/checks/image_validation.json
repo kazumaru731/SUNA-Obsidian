@@ -1,0 +1,87 @@
+[
+  {
+    "file": "suna_remaining_100.png",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "nonemptyBounds": [
+      279,
+      41,
+      745,
+      984
+    ]
+  },
+  {
+    "file": "suna_remaining_075.png",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "nonemptyBounds": [
+      279,
+      41,
+      745,
+      984
+    ]
+  },
+  {
+    "file": "suna_remaining_050.png",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "nonemptyBounds": [
+      279,
+      41,
+      745,
+      984
+    ]
+  },
+  {
+    "file": "suna_remaining_025.png",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "nonemptyBounds": [
+      279,
+      41,
+      745,
+      984
+    ]
+  },
+  {
+    "file": "suna_remaining_000.png",
+    "dimensions": [
+      1024,
+      1024
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "nonemptyBounds": [
+      279,
+      41,
+      745,
+      984
+    ]
+  }
+]
