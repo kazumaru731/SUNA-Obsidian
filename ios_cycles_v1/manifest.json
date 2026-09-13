@@ -1,0 +1,1145 @@
+{
+  "schemaVersion": 1,
+  "assetSet": "SUNA Obsidian / iOS Cycles v1",
+  "status": "complete",
+  "generatedAtUTC": "2026-09-13T06:12:06Z",
+  "remainingDirection": "1.0 = all sand in upper reservoir; 0.0 = finished, all in lower reservoir. Filenames encode remaining percent, never elapsed percent.",
+  "source": {
+    "commit": "56776a098ca4da6d38daafd3717b8507c4d4197a",
+    "path": "output/SUNA_Obsidian.blend",
+    "sha256": "af18c618df4c096ff7580d97f963bd9ba9ec38cc43f8c0d654a9cc3ba879da9f",
+    "blenderVersion": "5.0.1",
+    "referenceImageSha256": "25b064412175873e56c48f1e3891f735689dd3451681aa401c8d8c6b32316760"
+  },
+  "resolution": {
+    "width": 880,
+    "height": 1056,
+    "pixelAspect": [
+      1,
+      1
+    ]
+  },
+  "fps": 24,
+  "frameCount": 48,
+  "loopDurationSeconds": 2.0,
+  "sampleTimesSeconds": {
+    "first": 0,
+    "last": 1.9583333333333333,
+    "duplicateEndpoint": false
+  },
+  "color": {
+    "master": "16-bit RGB PNG, display-referred sRGB, full range",
+    "video": {
+      "primaries": "BT.709",
+      "transfer": "BT.709",
+      "matrix": "BT.709",
+      "range": "limited"
+    },
+    "conversion": "Explicit sRGB transfer conversion to BT.709 through FFmpeg zscale; not metadata-only tagging."
+  },
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "renderSettings": {
+    "engine": "CYCLES",
+    "samples": 192,
+    "adaptiveThreshold": 0.01,
+    "resolution": [
+      880,
+      1056
+    ],
+    "pixelAspect": [
+      1,
+      1
+    ],
+    "denoiser": "OPENIMAGEDENOISE",
+    "denoisingPrefilter": "ACCURATE",
+    "useAnimatedSeed": false,
+    "seed": 0,
+    "maxBounces": 16,
+    "transmissionBounces": 12,
+    "glossyBounces": 8,
+    "transparentMaxBounces": 16,
+    "masterFormat": "16-bit RGB PNG",
+    "displaySpace": "sRGB",
+    "viewTransform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.35,
+    "gamma": 1,
+    "camera": "Camera / HERO — studio portrait",
+    "device": "OPTIX",
+    "fps": 24,
+    "frameCount": 48,
+    "periodSeconds": 2.0,
+    "motionVersion": "fixed-volume-periodic-v1"
+  },
+  "encoding": {
+    "encoder": "libx264",
+    "profile": "High",
+    "level": "4.1",
+    "crf": 14,
+    "preset": "slow",
+    "pixelFormat": "yuv420p",
+    "bFrames": 0,
+    "gop": 48,
+    "colorPrimaries": "bt709",
+    "transfer": "bt709",
+    "matrix": "bt709",
+    "range": "limited",
+    "source": "sRGB full-range RGB16",
+    "filter": "format=gbrp16le,zscale=matrixin=gbr:matrix=bt709:transferin=iec61966-2-1:transfer=bt709:primariesin=bt709:primaries=bt709:rangein=full:range=limited:dither=error_diffusion,format=yuv420p,setsar=1",
+    "audio": false,
+    "fastStart": true,
+    "zeroPercent": "Repeat one identical encoded IDR access unit 48 times"
+  },
+  "mixing": {
+    "space": "linear-light after correctly decoding the tagged video",
+    "phase": "Use one shared clock modulo 2 seconds. Both video frames have the same phase index.",
+    "weight": "p=clamp(remainingFraction,0,1)*100; lo=floor(p); hi=min(100,lo+1); weight=p-lo",
+    "idle": "Use stills/idle_full.png before starting.",
+    "finished": "Use stills/finished_empty.png at zero; the 0% static clip supports the 1% -> 0% blend."
+  },
+  "expectedClipCount": 101,
+  "validatedClipCount": 101,
+  "clips": [
+    {
+      "remainingFraction": 0.0,
+      "path": "clips/remaining_000.mp4",
+      "status": "validated",
+      "sha256": "20980d0d9beead3f1c273ca6c9b1fe78e4c38feaebdc6e9f01445dad5983b290",
+      "bytes": 2335265,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": false
+    },
+    {
+      "remainingFraction": 0.01,
+      "path": "clips/remaining_001.mp4",
+      "status": "validated",
+      "sha256": "762e6acd6feb79ee37449fd8e3d3755d5c9143a3e0216ffecd92d8973ac205db",
+      "bytes": 449192,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.02,
+      "path": "clips/remaining_002.mp4",
+      "status": "validated",
+      "sha256": "4e36ade8519afc463b400004ebebbb55f60c65a356c7899cd921f75786bd8205",
+      "bytes": 455483,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.03,
+      "path": "clips/remaining_003.mp4",
+      "status": "validated",
+      "sha256": "ac4a741cbd6005f344df9e43858797459c323939394ca078425462f0808fb48c",
+      "bytes": 450084,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.04,
+      "path": "clips/remaining_004.mp4",
+      "status": "validated",
+      "sha256": "bc92fd8cac81ac774a6a38aad17d18a3d60ff10ec2ec4d08554441df4426c3be",
+      "bytes": 459811,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.05,
+      "path": "clips/remaining_005.mp4",
+      "status": "validated",
+      "sha256": "ec9d3cf883071488b4595c6daa8380e7f8e2027ffa5d065b2f17e306bda71e01",
+      "bytes": 449024,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.06,
+      "path": "clips/remaining_006.mp4",
+      "status": "validated",
+      "sha256": "cf87f276a9d28d09a1b4e9833a61f9950739776e4f8f116aabf8387350514ff8",
+      "bytes": 445816,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.07,
+      "path": "clips/remaining_007.mp4",
+      "status": "validated",
+      "sha256": "b7c568a4878ee7e8168d5059216b07d04be7bb12ab67e2bd1d3e65f4da9e2bf8",
+      "bytes": 439629,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.08,
+      "path": "clips/remaining_008.mp4",
+      "status": "validated",
+      "sha256": "a8a260eb2cb818b5a0373df350d174b20097d097ea5518d3157b06d6a3ddd7b5",
+      "bytes": 439393,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.09,
+      "path": "clips/remaining_009.mp4",
+      "status": "validated",
+      "sha256": "00e4bca1cfeadf9a715a07bfdf9000bf1af34dc870b6a6ea0ea2cb019564b403",
+      "bytes": 449248,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.1,
+      "path": "clips/remaining_010.mp4",
+      "status": "validated",
+      "sha256": "25eb5ba7613bf92baa1579bda21b1754ed38fb725b0409863834914f10eb2aaf",
+      "bytes": 448962,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.11,
+      "path": "clips/remaining_011.mp4",
+      "status": "validated",
+      "sha256": "eed315f5cd892c374c12949a0054aca95a1b934509f2308f35644757e39d6a26",
+      "bytes": 458462,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.12,
+      "path": "clips/remaining_012.mp4",
+      "status": "validated",
+      "sha256": "fc70d7aa721b5c02c67b10d592900cbc133801a52a4ed2b83f35627818716887",
+      "bytes": 440102,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.13,
+      "path": "clips/remaining_013.mp4",
+      "status": "validated",
+      "sha256": "4e977c9bff3aa6af8e72c65ebcc1c61dfa1c65e98b95d63bb82914cf83b77a6b",
+      "bytes": 449049,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.14,
+      "path": "clips/remaining_014.mp4",
+      "status": "validated",
+      "sha256": "e479ad77c6acabab5111d225d2a12fb27226847c07c08eb9b6b125c00709b524",
+      "bytes": 459707,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.15,
+      "path": "clips/remaining_015.mp4",
+      "status": "validated",
+      "sha256": "044dfaa7a615daba75c64906a99a75aa0de338bd5a49fab9ad8d376966a41bce",
+      "bytes": 455638,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.16,
+      "path": "clips/remaining_016.mp4",
+      "status": "validated",
+      "sha256": "f3bfb5684fb73c22236289ac4aa264c21dd3223b032cb19739e6b69bdc900ad8",
+      "bytes": 463309,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.17,
+      "path": "clips/remaining_017.mp4",
+      "status": "validated",
+      "sha256": "d461b4a7448fc37a2ee14de820a92eacb84eb5867e033ef95b56faf28803b5c2",
+      "bytes": 458684,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.18,
+      "path": "clips/remaining_018.mp4",
+      "status": "validated",
+      "sha256": "43483f4801e1f53c571ed55409411e50418642c0e33f165f3f896d55e6d4ec0d",
+      "bytes": 461658,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.19,
+      "path": "clips/remaining_019.mp4",
+      "status": "validated",
+      "sha256": "7e21c95ae845b9acd18689d17b4df8e9be393c0aea11840677efa435118856a6",
+      "bytes": 466149,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.2,
+      "path": "clips/remaining_020.mp4",
+      "status": "validated",
+      "sha256": "84284fb116727da04c2d2b2fe5cf8dde0fc924d0284748ca4f95643bdf991f83",
+      "bytes": 465942,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.21,
+      "path": "clips/remaining_021.mp4",
+      "status": "validated",
+      "sha256": "abe33320aeecfabcd3ca84f436af886c8305594769b30a54abecb14ee654737b",
+      "bytes": 458060,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.22,
+      "path": "clips/remaining_022.mp4",
+      "status": "validated",
+      "sha256": "bdbf2295b366a3a2aeb9c89e944164818d7fdc240ac34b892f272df7aef18bed",
+      "bytes": 459469,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.23,
+      "path": "clips/remaining_023.mp4",
+      "status": "validated",
+      "sha256": "cb31390b0b3d176f447738a78a484902383047d64f91652885254686e6c86c78",
+      "bytes": 456575,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.24,
+      "path": "clips/remaining_024.mp4",
+      "status": "validated",
+      "sha256": "c4f747dcf56076af0ba6eca962b4a960f64e09b3f9d79871d52a5503d53b4632",
+      "bytes": 455396,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.25,
+      "path": "clips/remaining_025.mp4",
+      "status": "validated",
+      "sha256": "afc5c4ac51a44edbf120902565af84c2cd6ecb89546200ff70c703eb5a86257d",
+      "bytes": 462340,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.26,
+      "path": "clips/remaining_026.mp4",
+      "status": "validated",
+      "sha256": "0b2e655eb9a41cec323006941733552ed11b195160d7b39e169bc5ad024e539f",
+      "bytes": 470273,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.27,
+      "path": "clips/remaining_027.mp4",
+      "status": "validated",
+      "sha256": "5066773938b24b860f672bac3cd057ee5e32bf96af12f96e31cfa21d1400e03a",
+      "bytes": 457169,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.28,
+      "path": "clips/remaining_028.mp4",
+      "status": "validated",
+      "sha256": "4c31340bcc4ad62be45f223de39eb06f763745b160c220550e0a4a78eb8420cf",
+      "bytes": 462392,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.29,
+      "path": "clips/remaining_029.mp4",
+      "status": "validated",
+      "sha256": "bec049f5c988850ed9b31bc061ee7f04f235245744c8ad65a62e10d6c067a249",
+      "bytes": 453841,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.3,
+      "path": "clips/remaining_030.mp4",
+      "status": "validated",
+      "sha256": "16d25a73dd34e1f7eb736ac3ef109f69c633de37fbc47f660cc0edb24274c5e6",
+      "bytes": 457430,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.31,
+      "path": "clips/remaining_031.mp4",
+      "status": "validated",
+      "sha256": "fcc495955466accab159c27ce2895faeb0c85ea5c96dd7d401e08f6debedb31a",
+      "bytes": 457452,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.32,
+      "path": "clips/remaining_032.mp4",
+      "status": "validated",
+      "sha256": "b4d281f556d704011ce9a802e6c0c3b00fb1ad6a1e2fe6af3d318d70140e9d3f",
+      "bytes": 461406,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.33,
+      "path": "clips/remaining_033.mp4",
+      "status": "validated",
+      "sha256": "099893380bd9b95b3fe555d7037c74f29aa5ecc24e9d98fcaf857830c11479d0",
+      "bytes": 469522,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.34,
+      "path": "clips/remaining_034.mp4",
+      "status": "validated",
+      "sha256": "5e0ead7d2c64fbe0f87e7ac2db06579ec0c8793ed9dd4dd2c975a7ae5a544d3e",
+      "bytes": 452396,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.35,
+      "path": "clips/remaining_035.mp4",
+      "status": "validated",
+      "sha256": "3881d93ad24a22b7c8fd317321f65394711cea91f3aa9e505554cb75d9dcddaa",
+      "bytes": 459629,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.36,
+      "path": "clips/remaining_036.mp4",
+      "status": "validated",
+      "sha256": "b35c38282b7a50f1317ca222771bf345da94129903ee23b810f7eb8c0f50cea8",
+      "bytes": 485369,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.37,
+      "path": "clips/remaining_037.mp4",
+      "status": "validated",
+      "sha256": "9f8c6f594717dca50d6a6faab650f4e15170664ee2d70b5b6928ff54eea34d52",
+      "bytes": 464949,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.38,
+      "path": "clips/remaining_038.mp4",
+      "status": "validated",
+      "sha256": "12874f3a870b1871e3b3e4851aa4cbae57d8d7daaf5e726c99899922420ff5b2",
+      "bytes": 457476,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.39,
+      "path": "clips/remaining_039.mp4",
+      "status": "validated",
+      "sha256": "5eaf68a6f55e84adc001a231aa953efdeae8065bc8c65b3113dcd53d04ecd885",
+      "bytes": 471802,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.4,
+      "path": "clips/remaining_040.mp4",
+      "status": "validated",
+      "sha256": "144799a2dced0b54d814cf3e9693415d390ecd0176aa5b20bfe7bdce6c909ed3",
+      "bytes": 472697,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.41,
+      "path": "clips/remaining_041.mp4",
+      "status": "validated",
+      "sha256": "75fb8df8bbe306e128cc40301e952efbb158aa34fbf1e71f09762a397632923b",
+      "bytes": 462620,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.42,
+      "path": "clips/remaining_042.mp4",
+      "status": "validated",
+      "sha256": "e565ab6576807574ba687cb074839e57c3480f39eac31d91becb43eae765a704",
+      "bytes": 459518,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.43,
+      "path": "clips/remaining_043.mp4",
+      "status": "validated",
+      "sha256": "b68cbd729a2bbe9f57b5eb22e5ea7e2705e2d0b3deb1046323f4242024166aad",
+      "bytes": 467369,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.44,
+      "path": "clips/remaining_044.mp4",
+      "status": "validated",
+      "sha256": "ab9e2feb049fd11b7c853005c8cb0a756dfa16c07b600f2eb6861605907b0f9a",
+      "bytes": 479359,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.45,
+      "path": "clips/remaining_045.mp4",
+      "status": "validated",
+      "sha256": "d155adb75d654589682f65d32a200f766351a479642f968616200a17cd07ab9b",
+      "bytes": 456125,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.46,
+      "path": "clips/remaining_046.mp4",
+      "status": "validated",
+      "sha256": "17a929dcb155167427b8d8fa939efdff5a441954a71a0b3e4cc03184aed5787d",
+      "bytes": 476544,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.47,
+      "path": "clips/remaining_047.mp4",
+      "status": "validated",
+      "sha256": "157baf22ec748040a06839af6f574a7e24e6c00fa42570a3ef01dea8ad26b72b",
+      "bytes": 472088,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.48,
+      "path": "clips/remaining_048.mp4",
+      "status": "validated",
+      "sha256": "4f4c5c94b299b3a58d0a87d5b7c99c469abde6ab5796e70d8c810c23240073d5",
+      "bytes": 472708,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.49,
+      "path": "clips/remaining_049.mp4",
+      "status": "validated",
+      "sha256": "a6b1a160d3d843205fb226b3a3c1c2279361cc0f4cd24b09bb022c0ef35c8dcc",
+      "bytes": 463275,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.5,
+      "path": "clips/remaining_050.mp4",
+      "status": "validated",
+      "sha256": "c2fdcbc8ee6a2af3505b44e4c3cde7a01c22223f413cdf058c33ac81ef4d8f86",
+      "bytes": 468802,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.51,
+      "path": "clips/remaining_051.mp4",
+      "status": "validated",
+      "sha256": "79cdcde101be9368408ea3fb1f7d689e1333a4f7eb7b0f7a0607367805f51741",
+      "bytes": 469494,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.52,
+      "path": "clips/remaining_052.mp4",
+      "status": "validated",
+      "sha256": "bce56c32451b4ea4c9526ff4a715e46bc780428b26bd63a2ff47b906c77b48bb",
+      "bytes": 459068,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.53,
+      "path": "clips/remaining_053.mp4",
+      "status": "validated",
+      "sha256": "f9866754cd74481249619eee6593d5b6f71935d9f0e2063eab31bd04484f8c85",
+      "bytes": 464938,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.54,
+      "path": "clips/remaining_054.mp4",
+      "status": "validated",
+      "sha256": "583111fec1db833a11fb986e11b2569d2807fa87b319b49c52b9872288cb7f87",
+      "bytes": 465570,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.55,
+      "path": "clips/remaining_055.mp4",
+      "status": "validated",
+      "sha256": "3cc9a968ce91bfc15c1ff0e1bcc48bb321a214120416fb457195be86840e3dbb",
+      "bytes": 468309,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.56,
+      "path": "clips/remaining_056.mp4",
+      "status": "validated",
+      "sha256": "5247cdb91aca0a49043da8eb522dcfd25aca594ef4954544b0727e4e58005ec1",
+      "bytes": 471365,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.57,
+      "path": "clips/remaining_057.mp4",
+      "status": "validated",
+      "sha256": "006c04eafe038c9e7b547e6150794d937812f17e4950fc18a658249f4e82e2df",
+      "bytes": 458032,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.58,
+      "path": "clips/remaining_058.mp4",
+      "status": "validated",
+      "sha256": "95958495c5973438ecaab1bb84c092dbc0a1d2331790272f5f81b28351ca83e1",
+      "bytes": 465948,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.59,
+      "path": "clips/remaining_059.mp4",
+      "status": "validated",
+      "sha256": "6a757c603e5b780f7e374c9494bde618e4bd455484be7d41d0a8c0831294db27",
+      "bytes": 463855,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.6,
+      "path": "clips/remaining_060.mp4",
+      "status": "validated",
+      "sha256": "045efb277e4c1db08a7018bbfee997949f2e5974757dd0f4e27b3da4abb62872",
+      "bytes": 471150,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.61,
+      "path": "clips/remaining_061.mp4",
+      "status": "validated",
+      "sha256": "c40838a5b6c755e12d830b39148e31911542f72cb92c133ffd98aaa6c84d2879",
+      "bytes": 469399,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.62,
+      "path": "clips/remaining_062.mp4",
+      "status": "validated",
+      "sha256": "dd259c390ffcceb20f8d63ec4143b91c370cd33f6b3d14539af901757febc484",
+      "bytes": 477175,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.63,
+      "path": "clips/remaining_063.mp4",
+      "status": "validated",
+      "sha256": "8b72634a91ad295c6428cd0fee0068431aad52dfc642155673eaa878e1b9ba17",
+      "bytes": 478310,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.64,
+      "path": "clips/remaining_064.mp4",
+      "status": "validated",
+      "sha256": "309d05d0b765a01c6e2b4747b629bd4db5f171eee30f3909f4f98b2c1eb9e782",
+      "bytes": 462770,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.65,
+      "path": "clips/remaining_065.mp4",
+      "status": "validated",
+      "sha256": "9f7e17559b75afeeb8f092fb07416a6e5d32a7cb78713f94dc54602fa0ad111e",
+      "bytes": 476561,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.66,
+      "path": "clips/remaining_066.mp4",
+      "status": "validated",
+      "sha256": "d3ec7fa8cbf36c101e7fef54ee509e89c32a5b6702488d38a472553ef571d769",
+      "bytes": 471302,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.67,
+      "path": "clips/remaining_067.mp4",
+      "status": "validated",
+      "sha256": "c92361574bf08ddb002b6fbe8e1ea4f13ef4c58e2f253162786f553b5e57c1e8",
+      "bytes": 472032,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.68,
+      "path": "clips/remaining_068.mp4",
+      "status": "validated",
+      "sha256": "428d7237e26c3452c8f793b1e3f75252f001621fca3ecb54bf26e09aa9a8a786",
+      "bytes": 479616,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.69,
+      "path": "clips/remaining_069.mp4",
+      "status": "validated",
+      "sha256": "70e237bd97d275202b7d19dc75acaf1faf877a3eafe8a2b828c3d307a87f8b0c",
+      "bytes": 472128,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.7,
+      "path": "clips/remaining_070.mp4",
+      "status": "validated",
+      "sha256": "cfc24506555395488cd5b250dc3a4632eaa418841307d14cfd61f7b0a37574bf",
+      "bytes": 476940,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.71,
+      "path": "clips/remaining_071.mp4",
+      "status": "validated",
+      "sha256": "c1feb7f976130bbccb14b92dc9a6f1853107146320908725cef93965e305ad0e",
+      "bytes": 476101,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.72,
+      "path": "clips/remaining_072.mp4",
+      "status": "validated",
+      "sha256": "322817017f0a30baeab678cf116e72ab17164e0d21498935b502960d5387944a",
+      "bytes": 471204,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.73,
+      "path": "clips/remaining_073.mp4",
+      "status": "validated",
+      "sha256": "81dfa1a7b4d166391f387e2b4d331174bfa1842f3948316b58ce063d26213876",
+      "bytes": 481846,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.74,
+      "path": "clips/remaining_074.mp4",
+      "status": "validated",
+      "sha256": "2fb3cc0a592ae651ee99cae623cb8ffe180e30a83a3ca2d0d8c8da6e2639c48f",
+      "bytes": 473787,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.75,
+      "path": "clips/remaining_075.mp4",
+      "status": "validated",
+      "sha256": "820150bc866f2ba139ea8cdba98cc6056c12c8fd2d686c74926ba06290cf3c71",
+      "bytes": 480755,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.76,
+      "path": "clips/remaining_076.mp4",
+      "status": "validated",
+      "sha256": "03b3718c62c8d4f4b13f0a5171d62f3d98aeb1884e5539e444328cce17def0fc",
+      "bytes": 472135,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.77,
+      "path": "clips/remaining_077.mp4",
+      "status": "validated",
+      "sha256": "d4378bfe9ef8dff007407c5eb213954b3fa346b192aaa1b5fd5f4bae66c054a5",
+      "bytes": 469719,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.78,
+      "path": "clips/remaining_078.mp4",
+      "status": "validated",
+      "sha256": "612b6c8250cc75d04ba85d4c9bd89fa764e64bee3686af64eaf222a953cfc6dc",
+      "bytes": 473764,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.79,
+      "path": "clips/remaining_079.mp4",
+      "status": "validated",
+      "sha256": "f5032e4a9fd447ba57debaaeed682a8d1533ee17c798577af3d4a5088f904658",
+      "bytes": 480661,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.8,
+      "path": "clips/remaining_080.mp4",
+      "status": "validated",
+      "sha256": "eb441cd3f7a913c6fd2c20a2cbe58af5e1886d837e0a475f7abed50315f6688d",
+      "bytes": 484631,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.81,
+      "path": "clips/remaining_081.mp4",
+      "status": "validated",
+      "sha256": "2eca527a0b78f504ac6b7859acbbba05ec8654e73b6a4b2d04cf2d20a821bf94",
+      "bytes": 483687,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.82,
+      "path": "clips/remaining_082.mp4",
+      "status": "validated",
+      "sha256": "f3e34d4341bf37b96f656946700f9c0fede4ede73c44e591a3e59080066afb7b",
+      "bytes": 476200,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.83,
+      "path": "clips/remaining_083.mp4",
+      "status": "validated",
+      "sha256": "e617746d71ad43fe8515fa74f17ed4fcc8a1acfcde9ef1367e884a6862cc91ef",
+      "bytes": 471589,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.84,
+      "path": "clips/remaining_084.mp4",
+      "status": "validated",
+      "sha256": "036d381fe9964d07105928d9b9b7e0c4e42ade6072f199df36b55db974cad29e",
+      "bytes": 473046,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.85,
+      "path": "clips/remaining_085.mp4",
+      "status": "validated",
+      "sha256": "2705537735a4f535dffcf4aa22e93c6820f7cfced4532099e9e1284a6d96b67f",
+      "bytes": 472804,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.86,
+      "path": "clips/remaining_086.mp4",
+      "status": "validated",
+      "sha256": "37f24c7111568fe35eed4d998b8ec53c26ca5442e7451c70934bacb96b44dd56",
+      "bytes": 474796,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.87,
+      "path": "clips/remaining_087.mp4",
+      "status": "validated",
+      "sha256": "b26ee8050d13e4545cf8cd19c85d4fe3c18f82d131602d3b476d655005d7c89b",
+      "bytes": 479066,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.88,
+      "path": "clips/remaining_088.mp4",
+      "status": "validated",
+      "sha256": "8558ff849d0da1f51a415f5cb8e8f72038c96e805d2325d5fef79fc6643e3db7",
+      "bytes": 485438,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.89,
+      "path": "clips/remaining_089.mp4",
+      "status": "validated",
+      "sha256": "a1c26b3b4e098eda7329ad5ca4be4766235b0d500c2a5a019d2028534b6c0702",
+      "bytes": 474680,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.9,
+      "path": "clips/remaining_090.mp4",
+      "status": "validated",
+      "sha256": "a15d2a7c93036f9274aac918341fc7e1360ffd906b278fe6974de4a4644c2a40",
+      "bytes": 479558,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.91,
+      "path": "clips/remaining_091.mp4",
+      "status": "validated",
+      "sha256": "b695fdefdea0f0f2b93e266cdc3beced1d5f6f8fe4e8555061bad893ea6fc479",
+      "bytes": 469983,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.92,
+      "path": "clips/remaining_092.mp4",
+      "status": "validated",
+      "sha256": "f8f396ef0bd73bd0f92361ba3b2dbaa22078e375938e442714bfda0071dd705a",
+      "bytes": 472780,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.93,
+      "path": "clips/remaining_093.mp4",
+      "status": "validated",
+      "sha256": "5b9609b659f19b4ee8e1b0c9a059269ae4f253e38f231d3360dddb063e35a2d9",
+      "bytes": 468095,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.94,
+      "path": "clips/remaining_094.mp4",
+      "status": "validated",
+      "sha256": "f4e0c6ff04835302f1f54b15bdc21ffaa0388484b34c38787513936aa90d9518",
+      "bytes": 483765,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.95,
+      "path": "clips/remaining_095.mp4",
+      "status": "validated",
+      "sha256": "ed34709b8677c468a36950c936c818780c874caed2c03ea7ce4aa229f83e2ac8",
+      "bytes": 471213,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.96,
+      "path": "clips/remaining_096.mp4",
+      "status": "validated",
+      "sha256": "d5d1d15b586a747303e1f5bff98a5448e4fd14548bf7e6a7908fb8188058a8ce",
+      "bytes": 476132,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.97,
+      "path": "clips/remaining_097.mp4",
+      "status": "validated",
+      "sha256": "d9041da549b6aa2cd512b1f87d7d5d208aeba0b8fd0318a7795ea6af1394deb1",
+      "bytes": 473280,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.98,
+      "path": "clips/remaining_098.mp4",
+      "status": "validated",
+      "sha256": "af8a7c1182e38c2614d7e4d6a819b3ebb744f8b69182b3e9203170e541575cd5",
+      "bytes": 473506,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 0.99,
+      "path": "clips/remaining_099.mp4",
+      "status": "validated",
+      "sha256": "045cdea16d78cb82902e730f39997f97ac5d3fb804c3ca1b581836d272c44d6b",
+      "bytes": 478910,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    },
+    {
+      "remainingFraction": 1.0,
+      "path": "clips/remaining_100.mp4",
+      "status": "validated",
+      "sha256": "055ecbbd8c2efd1316df7fb9fabfcc4f77f970c948e22286c20c5d5d732ce1f6",
+      "bytes": 467217,
+      "frameCount": 48,
+      "durationSeconds": 2.0,
+      "flowing": true
+    }
+  ],
+  "stills": [
+    {
+      "path": "stills/idle_full.png",
+      "remainingFraction": 1,
+      "role": "idle_no_flow",
+      "sha256": "39458dbfb20708e1a692c203598c4765e90cd7a3156c178f5d2e443e6a75c4ba",
+      "bytes": 3464103,
+      "flowing": false
+    },
+    {
+      "path": "stills/finished_empty.png",
+      "remainingFraction": 0,
+      "role": "finished_no_flow",
+      "sha256": "e89400fca8c1a6de76008da35c70d7b33bfaf2ab484a7b5d8767a272aacca9c1",
+      "bytes": 3472090,
+      "flowing": false
+    }
+  ],
+  "previews": [
+    {
+      "path": "previews/reference_comparison.png",
+      "sha256": "074f90831cd45492035105776269229cffc306e70fe71489f373d9fb405ee0fc"
+    },
+    {
+      "path": "previews/loop_and_transition_check.mp4",
+      "sha256": "4da402eafca23886f09f6bffd8647ff28aaf04dba055712c1f47b31271e63e7b"
+    }
+  ],
+  "masterStorage": "../ios_cycles_v1_masters/frames/",
+  "validation": "checks/validation.json",
+  "appIntegration": "Mac/iPhone implementation and device validation are outside this delivery."
+}

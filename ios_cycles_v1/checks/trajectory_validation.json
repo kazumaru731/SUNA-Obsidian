@@ -1,0 +1,720 @@
+{
+  "passed": true,
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "oneSidedLimitEpsilonSeconds": 1e-07,
+  "maximumSeamLimitPositionError": 1.3122321433911566e-06,
+  "states": [
+    {
+      "remaining": 1,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.2234191893465436e-07,
+      "reboundContactResetError": 9.513884114201177e-08
+    },
+    {
+      "remaining": 2,
+      "seamLimitPositionError": 7.168980005189951e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.2234191893465436e-07,
+      "reboundContactResetError": 9.044010585226858e-08
+    },
+    {
+      "remaining": 3,
+      "seamLimitPositionError": 7.169593345679459e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.2234191893465436e-07,
+      "reboundContactResetError": 1.052072279329741e-07
+    },
+    {
+      "remaining": 4,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.2234191893465436e-07,
+      "reboundContactResetError": 1.0093995795115718e-07
+    },
+    {
+      "remaining": 5,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.2234191893465436e-07,
+      "reboundContactResetError": 8.531114814927521e-08
+    },
+    {
+      "remaining": 6,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.2234191893465436e-07,
+      "reboundContactResetError": 1.0510351567197262e-07
+    },
+    {
+      "remaining": 7,
+      "seamLimitPositionError": 7.168980005189951e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.2234191893465436e-07,
+      "reboundContactResetError": 9.394433886714126e-08
+    },
+    {
+      "remaining": 8,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.2234191893465436e-07,
+      "reboundContactResetError": 9.498525810683334e-08
+    },
+    {
+      "remaining": 9,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.2234191893465436e-07,
+      "reboundContactResetError": 9.467980699798262e-08
+    },
+    {
+      "remaining": 10,
+      "seamLimitPositionError": 7.169593345679459e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.0228147040783342e-07
+    },
+    {
+      "remaining": 11,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 9.083200880680153e-08
+    },
+    {
+      "remaining": 12,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.0514945092757189e-07
+    },
+    {
+      "remaining": 13,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 9.138086376828114e-08
+    },
+    {
+      "remaining": 14,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 9.5424897653823e-08
+    },
+    {
+      "remaining": 15,
+      "seamLimitPositionError": 7.169818445618148e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 9.6841862421565e-08
+    },
+    {
+      "remaining": 16,
+      "seamLimitPositionError": 7.763765665913525e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.076685485247586e-07
+    },
+    {
+      "remaining": 17,
+      "seamLimitPositionError": 7.764331826365378e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.0474464185242227e-07
+    },
+    {
+      "remaining": 18,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.0316551768765891e-07
+    },
+    {
+      "remaining": 19,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.1738769912020275e-07
+    },
+    {
+      "remaining": 20,
+      "seamLimitPositionError": 7.759448976685235e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 9.394052669434161e-08
+    },
+    {
+      "remaining": 21,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.0568978315098065e-07
+    },
+    {
+      "remaining": 22,
+      "seamLimitPositionError": 7.763765665913525e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.2367036861596348e-07
+    },
+    {
+      "remaining": 23,
+      "seamLimitPositionError": 7.763765665913525e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.10232058595644e-07
+    },
+    {
+      "remaining": 24,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.1691374779757013e-07
+    },
+    {
+      "remaining": 25,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.0761878677448267e-07
+    },
+    {
+      "remaining": 26,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.3213868311004462e-07
+    },
+    {
+      "remaining": 27,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.1846108228033558e-07
+    },
+    {
+      "remaining": 28,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.3201968230083794e-07
+    },
+    {
+      "remaining": 29,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.2509568092858303e-07
+    },
+    {
+      "remaining": 30,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.0480672596804852e-07
+    },
+    {
+      "remaining": 31,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.2868358756704112e-07
+    },
+    {
+      "remaining": 32,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.046153259610938e-07
+    },
+    {
+      "remaining": 33,
+      "seamLimitPositionError": 7.764539873278409e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.2277399319762794e-07
+    },
+    {
+      "remaining": 34,
+      "seamLimitPositionError": 8.359256753465161e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.2971710528289493e-07
+    },
+    {
+      "remaining": 35,
+      "seamLimitPositionError": 8.359256753465161e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.2117621995058614e-07
+    },
+    {
+      "remaining": 36,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.1303537706189304e-07
+    },
+    {
+      "remaining": 37,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.2495504431511706e-07
+    },
+    {
+      "remaining": 38,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.297035021642634e-07
+    },
+    {
+      "remaining": 39,
+      "seamLimitPositionError": 8.359256753465161e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.0380267579171432e-07
+    },
+    {
+      "remaining": 40,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.3659348719122222e-07
+    },
+    {
+      "remaining": 41,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.1895469298819905e-07
+    },
+    {
+      "remaining": 42,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 3.81946563710045e-07,
+      "reboundContactResetError": 1.3385856867734192e-07
+    },
+    {
+      "remaining": 43,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.233629087805943e-07
+    },
+    {
+      "remaining": 44,
+      "seamLimitPositionError": 8.359256753465161e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.138961276438144e-07
+    },
+    {
+      "remaining": 45,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2457178977590133e-07
+    },
+    {
+      "remaining": 46,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1392813004454383e-07
+    },
+    {
+      "remaining": 47,
+      "seamLimitPositionError": 8.954511372394336e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2902118418436914e-07
+    },
+    {
+      "remaining": 48,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1596727178889155e-07
+    },
+    {
+      "remaining": 49,
+      "seamLimitPositionError": 8.359450021089287e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2850155917468187e-07
+    },
+    {
+      "remaining": 50,
+      "seamLimitPositionError": 8.954331178756547e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2373076608077072e-07
+    },
+    {
+      "remaining": 51,
+      "seamLimitPositionError": 8.954511372394336e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.235169910830669e-07
+    },
+    {
+      "remaining": 52,
+      "seamLimitPositionError": 8.954331178756547e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2747305966689937e-07
+    },
+    {
+      "remaining": 53,
+      "seamLimitPositionError": 8.954511372394336e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2492129464539148e-07
+    },
+    {
+      "remaining": 54,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.325251861618304e-07
+    },
+    {
+      "remaining": 55,
+      "seamLimitPositionError": 9.549526112095919e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1748683715132047e-07
+    },
+    {
+      "remaining": 56,
+      "seamLimitPositionError": 8.952081316238036e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2294742135834924e-07
+    },
+    {
+      "remaining": 57,
+      "seamLimitPositionError": 9.549526112095919e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.248096432905632e-07
+    },
+    {
+      "remaining": 58,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.0043273368856576e-07
+    },
+    {
+      "remaining": 59,
+      "seamLimitPositionError": 8.950097480919794e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1265384114791943e-07
+    },
+    {
+      "remaining": 60,
+      "seamLimitPositionError": 9.549526112095919e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2649507286424666e-07
+    },
+    {
+      "remaining": 61,
+      "seamLimitPositionError": 9.548864454700379e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.3155779843634918e-07
+    },
+    {
+      "remaining": 62,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.369574338418167e-07
+    },
+    {
+      "remaining": 63,
+      "seamLimitPositionError": 9.549526112095919e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1485485918241722e-07
+    },
+    {
+      "remaining": 64,
+      "seamLimitPositionError": 9.549526112095919e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2349741252207225e-07
+    },
+    {
+      "remaining": 65,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2023144435949207e-07
+    },
+    {
+      "remaining": 66,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.3115606645533462e-07
+    },
+    {
+      "remaining": 67,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.0321352972644804e-07
+    },
+    {
+      "remaining": 68,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.3469584159500614e-07
+    },
+    {
+      "remaining": 69,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.0954801111032197e-07
+    },
+    {
+      "remaining": 70,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.3875404736643504e-07
+    },
+    {
+      "remaining": 71,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1999435156964666e-07
+    },
+    {
+      "remaining": 72,
+      "seamLimitPositionError": 9.549526112095919e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.3844141167132507e-07
+    },
+    {
+      "remaining": 73,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.3259924825162472e-07
+    },
+    {
+      "remaining": 74,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.325565828248776e-07
+    },
+    {
+      "remaining": 75,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.424362290371184e-07
+    },
+    {
+      "remaining": 76,
+      "seamLimitPositionError": 9.549695505484124e-07,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1456975080106901e-07
+    },
+    {
+      "remaining": 77,
+      "seamLimitPositionError": 1.0737164757301798e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1981488002091312e-07
+    },
+    {
+      "remaining": 78,
+      "seamLimitPositionError": 1.0740351399363135e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.357185910356995e-07
+    },
+    {
+      "remaining": 79,
+      "seamLimitPositionError": 1.0739790923253167e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1653858456375787e-07
+    },
+    {
+      "remaining": 80,
+      "seamLimitPositionError": 1.0739612434917944e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.2754205603107693e-07
+    },
+    {
+      "remaining": 81,
+      "seamLimitPositionError": 1.0738325499914936e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 4.415512084854356e-07,
+      "reboundContactResetError": 1.1257065457917492e-07
+    },
+    {
+      "remaining": 82,
+      "seamLimitPositionError": 1.0739612434917944e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.2116588777102977e-07
+    },
+    {
+      "remaining": 83,
+      "seamLimitPositionError": 1.0740351399363135e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.2202878152747787e-07
+    },
+    {
+      "remaining": 84,
+      "seamLimitPositionError": 1.0740351399363135e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.2773724789374996e-07
+    },
+    {
+      "remaining": 85,
+      "seamLimitPositionError": 1.0739790923253167e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.3589052483622965e-07
+    },
+    {
+      "remaining": 86,
+      "seamLimitPositionError": 1.0740200195868965e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.4405431514666334e-07
+    },
+    {
+      "remaining": 87,
+      "seamLimitPositionError": 1.0740200195868965e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.1128213617608851e-07
+    },
+    {
+      "remaining": 88,
+      "seamLimitPositionError": 1.0739790923253167e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.242461940033357e-07
+    },
+    {
+      "remaining": 89,
+      "seamLimitPositionError": 1.0740351399363135e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.310612198802963e-07
+    },
+    {
+      "remaining": 90,
+      "seamLimitPositionError": 1.0740351399363135e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.2531715110411512e-07
+    },
+    {
+      "remaining": 91,
+      "seamLimitPositionError": 1.0740351399363135e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.2662678372868386e-07
+    },
+    {
+      "remaining": 92,
+      "seamLimitPositionError": 1.0740351399363135e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.3479995542367562e-07
+    },
+    {
+      "remaining": 93,
+      "seamLimitPositionError": 1.1930790151382098e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.325127061448106e-07
+    },
+    {
+      "remaining": 94,
+      "seamLimitPositionError": 1.0740351399363135e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.3182898106825491e-07
+    },
+    {
+      "remaining": 95,
+      "seamLimitPositionError": 1.1931293784073205e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.3371381513485603e-07
+    },
+    {
+      "remaining": 96,
+      "seamLimitPositionError": 1.1931158496736316e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.3296263912457307e-07
+    },
+    {
+      "remaining": 97,
+      "seamLimitPositionError": 1.1931293784073205e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.4726351827212825e-07
+    },
+    {
+      "remaining": 98,
+      "seamLimitPositionError": 1.1931293784073205e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 5.607604980362169e-07,
+      "reboundContactResetError": 1.4127728964821729e-07
+    },
+    {
+      "remaining": 99,
+      "seamLimitPositionError": 1.3122321433911566e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 6.799697875869981e-07,
+      "reboundContactResetError": 1.1533686295264745e-07
+    },
+    {
+      "remaining": 100,
+      "seamLimitPositionError": 1.3122321433911566e-06,
+      "throatResetError": 2.682209020860027e-10,
+      "landingResetError": 6.799697875869981e-07,
+      "reboundContactResetError": 1.1318922111050456e-07
+    }
+  ],
+  "respawnLocations": "Stream: 0.012 scene units above the sand center -> throat. Impact grains: 0.004 above local surface -> center contact.",
+  "speedChangesFromOriginal": {
+    "stream": {
+      "originalCyclesPerSecond": 2.6,
+      "new": 2.5
+    },
+    "rebound": {
+      "originalCyclesPerSecond": 2.8,
+      "new": 3.0
+    }
+  },
+  "limitation": "Art-directed particles from the original model; not a granular dynamics simulation."
+}

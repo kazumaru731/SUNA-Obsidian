@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "checkpointFramesPreserved": 3,
+  "preservedSHA256AndModificationTimes": true,
+  "lastSavedPhaseBeforePause": 3,
+  "firstNewPhaseAfterResume": 4,
+  "verifiedSkippedPhases": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "workerPID": 26104,
+  "resumedWorkerLog": "D:\\Projects\\suna\\ios_cycles_v1\\checks\\blender_full_20260912_235949.log",
+  "sourcePreserved": true
+}

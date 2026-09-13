@@ -1,0 +1,614 @@
+{
+  "passed": true,
+  "sourceShapesPreserved": true,
+  "monotonic": true,
+  "maxRelativeVolumeError": 0.00867262727637231,
+  "states": [
+    {
+      "remaining": 0,
+      "upperVolume": 0.0,
+      "lowerVolume": 0.8493237399622732,
+      "sum": 0.8493237399622732
+    },
+    {
+      "remaining": 1,
+      "upperVolume": 0.001957239204195533,
+      "lowerVolume": 0.8407971175964805,
+      "sum": 0.842754356800676
+    },
+    {
+      "remaining": 2,
+      "upperVolume": 0.015657946499070884,
+      "lowerVolume": 0.8323082903456532,
+      "sum": 0.8479662368447242
+    },
+    {
+      "remaining": 3,
+      "upperVolume": 0.024497331705080016,
+      "lowerVolume": 0.8237787648535267,
+      "sum": 0.8482760965586068
+    },
+    {
+      "remaining": 4,
+      "upperVolume": 0.03367770976661131,
+      "lowerVolume": 0.8152801796088017,
+      "sum": 0.848957889375413
+    },
+    {
+      "remaining": 5,
+      "upperVolume": 0.04191712467977963,
+      "lowerVolume": 0.806751402270928,
+      "sum": 0.8486685269507076
+    },
+    {
+      "remaining": 6,
+      "upperVolume": 0.05071711798506653,
+      "lowerVolume": 0.7982473946176741,
+      "sum": 0.8489645126027406
+    },
+    {
+      "remaining": 7,
+      "upperVolume": 0.05909298407321204,
+      "lowerVolume": 0.7897160506483102,
+      "sum": 0.8488090347215222
+    },
+    {
+      "remaining": 8,
+      "upperVolume": 0.06774133780012076,
+      "lowerVolume": 0.781207540342192,
+      "sum": 0.8489488781423127
+    },
+    {
+      "remaining": 9,
+      "upperVolume": 0.07618350436768044,
+      "lowerVolume": 0.772693315892791,
+      "sum": 0.8488768202604714
+    },
+    {
+      "remaining": 10,
+      "upperVolume": 0.08475391666184177,
+      "lowerVolume": 0.76419361680209,
+      "sum": 0.8489475334639317
+    },
+    {
+      "remaining": 11,
+      "upperVolume": 0.09324929727494428,
+      "lowerVolume": 0.7556885421531546,
+      "sum": 0.8489378394280989
+    },
+    {
+      "remaining": 12,
+      "upperVolume": 0.10176701392278382,
+      "lowerVolume": 0.7471964565431094,
+      "sum": 0.8489634704658933
+    },
+    {
+      "remaining": 13,
+      "upperVolume": 0.11029580269299305,
+      "lowerVolume": 0.7387128059157705,
+      "sum": 0.8490086086087636
+    },
+    {
+      "remaining": 14,
+      "upperVolume": 0.1187771479539949,
+      "lowerVolume": 0.7302322618301056,
+      "sum": 0.8490094097841004
+    },
+    {
+      "remaining": 15,
+      "upperVolume": 0.12733212049016016,
+      "lowerVolume": 0.7217642389172387,
+      "sum": 0.8490963594073989
+    },
+    {
+      "remaining": 16,
+      "upperVolume": 0.13577999273198618,
+      "lowerVolume": 0.7133029669644607,
+      "sum": 0.8490829596964469
+    },
+    {
+      "remaining": 17,
+      "upperVolume": 0.14434853297286154,
+      "lowerVolume": 0.7048646725737898,
+      "sum": 0.8492132055466514
+    },
+    {
+      "remaining": 18,
+      "upperVolume": 0.1527717268422392,
+      "lowerVolume": 0.6964255647429313,
+      "sum": 0.8491972915851704
+    },
+    {
+      "remaining": 19,
+      "upperVolume": 0.16135579271376096,
+      "lowerVolume": 0.6879929226638796,
+      "sum": 0.8493487153776406
+    },
+    {
+      "remaining": 20,
+      "upperVolume": 0.16976647915952425,
+      "lowerVolume": 0.6794864446716492,
+      "sum": 0.8492529238311735
+    },
+    {
+      "remaining": 21,
+      "upperVolume": 0.17836539686466724,
+      "lowerVolume": 0.6710020650832215,
+      "sum": 0.8493674619478887
+    },
+    {
+      "remaining": 22,
+      "upperVolume": 0.18676406369752085,
+      "lowerVolume": 0.6624371691648324,
+      "sum": 0.8492012328623533
+    },
+    {
+      "remaining": 23,
+      "upperVolume": 0.19537452971855232,
+      "lowerVolume": 0.6539136538478248,
+      "sum": 0.8492881835663771
+    },
+    {
+      "remaining": 24,
+      "upperVolume": 0.20376332446662979,
+      "lowerVolume": 0.6453552425935002,
+      "sum": 0.84911856706013
+    },
+    {
+      "remaining": 25,
+      "upperVolume": 0.21238273223081186,
+      "lowerVolume": 0.636846228902019,
+      "sum": 0.8492289611328309
+    },
+    {
+      "remaining": 26,
+      "upperVolume": 0.22076265625890237,
+      "lowerVolume": 0.6283008800187206,
+      "sum": 0.849063536277623
+    },
+    {
+      "remaining": 27,
+      "upperVolume": 0.22935294469432477,
+      "lowerVolume": 0.61980520816495,
+      "sum": 0.8491581528592748
+    },
+    {
+      "remaining": 28,
+      "upperVolume": 0.237760100473175,
+      "lowerVolume": 0.6112842303813073,
+      "sum": 0.8490443308544823
+    },
+    {
+      "remaining": 29,
+      "upperVolume": 0.2463272744534624,
+      "lowerVolume": 0.6028063721824566,
+      "sum": 0.849133646635919
+    },
+    {
+      "remaining": 30,
+      "upperVolume": 0.2547594966942838,
+      "lowerVolume": 0.5943130005279845,
+      "sum": 0.8490724972222683
+    },
+    {
+      "remaining": 31,
+      "upperVolume": 0.26330574441244914,
+      "lowerVolume": 0.5858568204128284,
+      "sum": 0.8491625648252775
+    },
+    {
+      "remaining": 32,
+      "upperVolume": 0.2717571085813867,
+      "lowerVolume": 0.577397573094915,
+      "sum": 0.8491546816763017
+    },
+    {
+      "remaining": 33,
+      "upperVolume": 0.28028528371207245,
+      "lowerVolume": 0.5689776336023529,
+      "sum": 0.8492629173144253
+    },
+    {
+      "remaining": 34,
+      "upperVolume": 0.28875379446584004,
+      "lowerVolume": 0.5605394079779599,
+      "sum": 0.8492932024437999
+    },
+    {
+      "remaining": 35,
+      "upperVolume": 0.2972665108873651,
+      "lowerVolume": 0.5521154463339661,
+      "sum": 0.8493819572213313
+    },
+    {
+      "remaining": 36,
+      "upperVolume": 0.3057515188320357,
+      "lowerVolume": 0.5436049602762455,
+      "sum": 0.8493564791082813
+    },
+    {
+      "remaining": 37,
+      "upperVolume": 0.31425004118165517,
+      "lowerVolume": 0.5350600683254056,
+      "sum": 0.8493101095070608
+    },
+    {
+      "remaining": 38,
+      "upperVolume": 0.32274469813473783,
+      "lowerVolume": 0.5265266921565859,
+      "sum": 0.8492713902913237
+    },
+    {
+      "remaining": 39,
+      "upperVolume": 0.3312310390872335,
+      "lowerVolume": 0.5179999302263308,
+      "sum": 0.8492309693135643
+    },
+    {
+      "remaining": 40,
+      "upperVolume": 0.33974021395311604,
+      "lowerVolume": 0.5094884496563785,
+      "sum": 0.8492286636094946
+    },
+    {
+      "remaining": 41,
+      "upperVolume": 0.3482166874891984,
+      "lowerVolume": 0.5009793922113397,
+      "sum": 0.849196079700538
+    },
+    {
+      "remaining": 42,
+      "upperVolume": 0.3567337399206559,
+      "lowerVolume": 0.4925023404808055,
+      "sum": 0.8492360804014614
+    },
+    {
+      "remaining": 43,
+      "upperVolume": 0.36520103626931294,
+      "lowerVolume": 0.48402539506268677,
+      "sum": 0.8492264313319997
+    },
+    {
+      "remaining": 44,
+      "upperVolume": 0.37372532025485244,
+      "lowerVolume": 0.47559572808621847,
+      "sum": 0.8493210483410709
+    },
+    {
+      "remaining": 45,
+      "upperVolume": 0.3821856443137632,
+      "lowerVolume": 0.4671572614950601,
+      "sum": 0.8493429058088233
+    },
+    {
+      "remaining": 46,
+      "upperVolume": 0.3907210726828212,
+      "lowerVolume": 0.4587455898420787,
+      "sum": 0.8494666625248999
+    },
+    {
+      "remaining": 47,
+      "upperVolume": 0.39917838186874044,
+      "lowerVolume": 0.45016421152970953,
+      "sum": 0.84934259339845
+    },
+    {
+      "remaining": 48,
+      "upperVolume": 0.40772660445631465,
+      "lowerVolume": 0.44165020783429904,
+      "sum": 0.8493768122906137
+    },
+    {
+      "remaining": 49,
+      "upperVolume": 0.4161737147819939,
+      "lowerVolume": 0.433082315370769,
+      "sum": 0.849256030152763
+    },
+    {
+      "remaining": 50,
+      "upperVolume": 0.42472310542164166,
+      "lowerVolume": 0.42459511051636567,
+      "sum": 0.8493182159380073
+    },
+    {
+      "remaining": 51,
+      "upperVolume": 0.4331648563314454,
+      "lowerVolume": 0.41606750423189265,
+      "sum": 0.8492323605633381
+    },
+    {
+      "remaining": 52,
+      "upperVolume": 0.44170624544037906,
+      "lowerVolume": 0.40762813394720415,
+      "sum": 0.8493343793875832
+    },
+    {
+      "remaining": 53,
+      "upperVolume": 0.4501596921740875,
+      "lowerVolume": 0.3991630015605851,
+      "sum": 0.8493226937346726
+    },
+    {
+      "remaining": 54,
+      "upperVolume": 0.4586933528182698,
+      "lowerVolume": 0.3907766847064161,
+      "sum": 0.8494700375246859
+    },
+    {
+      "remaining": 55,
+      "upperVolume": 0.46715473542349323,
+      "lowerVolume": 0.3822075959483646,
+      "sum": 0.8493623313718579
+    },
+    {
+      "remaining": 56,
+      "upperVolume": 0.475673211664908,
+      "lowerVolume": 0.3736829771152905,
+      "sum": 0.8493561887801986
+    },
+    {
+      "remaining": 57,
+      "upperVolume": 0.4841440293485057,
+      "lowerVolume": 0.3651248241554023,
+      "sum": 0.849268853503908
+    },
+    {
+      "remaining": 58,
+      "upperVolume": 0.49265742312200383,
+      "lowerVolume": 0.35662355817205244,
+      "sum": 0.8492809812940563
+    },
+    {
+      "remaining": 59,
+      "upperVolume": 0.501138826693463,
+      "lowerVolume": 0.34813553660071567,
+      "sum": 0.8492743632941786
+    },
+    {
+      "remaining": 60,
+      "upperVolume": 0.5096467240386094,
+      "lowerVolume": 0.3397058229121708,
+      "sum": 0.8493525469507802
+    },
+    {
+      "remaining": 61,
+      "upperVolume": 0.5181348237292053,
+      "lowerVolume": 0.3312192914353613,
+      "sum": 0.8493541151645665
+    },
+    {
+      "remaining": 62,
+      "upperVolume": 0.5266317768061227,
+      "lowerVolume": 0.32272421378031646,
+      "sum": 0.8493559905864392
+    },
+    {
+      "remaining": 63,
+      "upperVolume": 0.5351270165253009,
+      "lowerVolume": 0.3142034240451442,
+      "sum": 0.8493304405704452
+    },
+    {
+      "remaining": 64,
+      "upperVolume": 0.5436160668071454,
+      "lowerVolume": 0.3056593808789852,
+      "sum": 0.8492754476861306
+    },
+    {
+      "remaining": 65,
+      "upperVolume": 0.5521172514320003,
+      "lowerVolume": 0.29716395652559485,
+      "sum": 0.8492812079575951
+    },
+    {
+      "remaining": 66,
+      "upperVolume": 0.5606026989294001,
+      "lowerVolume": 0.2886997389627572,
+      "sum": 0.8493024378921572
+    },
+    {
+      "remaining": 67,
+      "upperVolume": 0.5691121821555499,
+      "lowerVolume": 0.2802506469439449,
+      "sum": 0.8493628290994948
+    },
+    {
+      "remaining": 68,
+      "upperVolume": 0.5775912079765035,
+      "lowerVolume": 0.2717178393079421,
+      "sum": 0.8493090472844456
+    },
+    {
+      "remaining": 69,
+      "upperVolume": 0.5861069638539836,
+      "lowerVolume": 0.26323694671657,
+      "sum": 0.8493439105705536
+    },
+    {
+      "remaining": 70,
+      "upperVolume": 0.5945774206453033,
+      "lowerVolume": 0.2546719928137546,
+      "sum": 0.8492494134590578
+    },
+    {
+      "remaining": 71,
+      "upperVolume": 0.6030938348598776,
+      "lowerVolume": 0.2462061211544823,
+      "sum": 0.8492999560143598
+    },
+    {
+      "remaining": 72,
+      "upperVolume": 0.6115590183022015,
+      "lowerVolume": 0.23773798247126512,
+      "sum": 0.8492970007734666
+    },
+    {
+      "remaining": 73,
+      "upperVolume": 0.6200813788922209,
+      "lowerVolume": 0.22936177940913213,
+      "sum": 0.8494431583013531
+    },
+    {
+      "remaining": 74,
+      "upperVolume": 0.6285435795365021,
+      "lowerVolume": 0.22074036711291234,
+      "sum": 0.8492839466494144
+    },
+    {
+      "remaining": 75,
+      "upperVolume": 0.6370734803930486,
+      "lowerVolume": 0.21225092296967943,
+      "sum": 0.849324403362728
+    },
+    {
+      "remaining": 76,
+      "upperVolume": 0.6455326822297809,
+      "lowerVolume": 0.2036902270662688,
+      "sum": 0.8492229092960497
+    },
+    {
+      "remaining": 77,
+      "upperVolume": 0.6540537991183485,
+      "lowerVolume": 0.19526363661080812,
+      "sum": 0.8493174357291566
+    },
+    {
+      "remaining": 78,
+      "upperVolume": 0.6625172720334672,
+      "lowerVolume": 0.18672912957809373,
+      "sum": 0.849246401611561
+    },
+    {
+      "remaining": 79,
+      "upperVolume": 0.6710308647513759,
+      "lowerVolume": 0.17837989751457875,
+      "sum": 0.8494107622659546
+    },
+    {
+      "remaining": 80,
+      "upperVolume": 0.6794968464399176,
+      "lowerVolume": 0.1697804509129021,
+      "sum": 0.8492772973528196
+    },
+    {
+      "remaining": 81,
+      "upperVolume": 0.6880012129706968,
+      "lowerVolume": 0.16136968432566334,
+      "sum": 0.8493708972963602
+    },
+    {
+      "remaining": 82,
+      "upperVolume": 0.696474847242118,
+      "lowerVolume": 0.15277783657178365,
+      "sum": 0.8492526838139016
+    },
+    {
+      "remaining": 83,
+      "upperVolume": 0.704972988776191,
+      "lowerVolume": 0.1443477893685897,
+      "sum": 0.8493207781447807
+    },
+    {
+      "remaining": 84,
+      "upperVolume": 0.7134509567503344,
+      "lowerVolume": 0.1357714573616469,
+      "sum": 0.8492224141119813
+    },
+    {
+      "remaining": 85,
+      "upperVolume": 0.7219453331833438,
+      "lowerVolume": 0.12732042159488519,
+      "sum": 0.849265754778229
+    },
+    {
+      "remaining": 86,
+      "upperVolume": 0.7304282484414083,
+      "lowerVolume": 0.11876541059311656,
+      "sum": 0.8491936590345248
+    },
+    {
+      "remaining": 87,
+      "upperVolume": 0.7389176722531335,
+      "lowerVolume": 0.11028840069882169,
+      "sum": 0.8492060729519553
+    },
+    {
+      "remaining": 88,
+      "upperVolume": 0.74740425945068,
+      "lowerVolume": 0.10176033057431806,
+      "sum": 0.8491645900249981
+    },
+    {
+      "remaining": 89,
+      "upperVolume": 0.7558873402529316,
+      "lowerVolume": 0.09324558027276168,
+      "sum": 0.8491329205256932
+    },
+    {
+      "remaining": 90,
+      "upperVolume": 0.7643786077722615,
+      "lowerVolume": 0.08475284999819972,
+      "sum": 0.8491314577704613
+    },
+    {
+      "remaining": 91,
+      "upperVolume": 0.7728559909419227,
+      "lowerVolume": 0.07618302716929622,
+      "sum": 0.849039018111219
+    },
+    {
+      "remaining": 92,
+      "upperVolume": 0.7813490057651064,
+      "lowerVolume": 0.06774088843638297,
+      "sum": 0.8490898942014893
+    },
+    {
+      "remaining": 93,
+      "upperVolume": 0.7898224699226054,
+      "lowerVolume": 0.059085592172576605,
+      "sum": 0.848908062095182
+    },
+    {
+      "remaining": 94,
+      "upperVolume": 0.7983112021716706,
+      "lowerVolume": 0.05072169134789265,
+      "sum": 0.8490328935195632
+    },
+    {
+      "remaining": 95,
+      "upperVolume": 0.80677195445265,
+      "lowerVolume": 0.04191244497212097,
+      "sum": 0.848684399424771
+    },
+    {
+      "remaining": 96,
+      "upperVolume": 0.8152629277924269,
+      "lowerVolume": 0.03367822826346304,
+      "sum": 0.8489411560558899
+    },
+    {
+      "remaining": 97,
+      "upperVolume": 0.8237210221929816,
+      "lowerVolume": 0.02449509981583159,
+      "sum": 0.8482161220088131
+    },
+    {
+      "remaining": 98,
+      "upperVolume": 0.83221130308384,
+      "lowerVolume": 0.015660441026008897,
+      "sum": 0.8478717441098489
+    },
+    {
+      "remaining": 99,
+      "upperVolume": 0.840670698576881,
+      "lowerVolume": 0.0019575682382024597,
+      "sum": 0.8426282668150835
+    },
+    {
+      "remaining": 100,
+      "upperVolume": 0.849160317804111,
+      "lowerVolume": -2.692645223154387e-28,
+      "sum": 0.849160317804111
+    }
+  ]
+}

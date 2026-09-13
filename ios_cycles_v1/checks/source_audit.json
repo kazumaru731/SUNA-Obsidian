@@ -1,0 +1,84 @@
+{
+  "sourceSha256": "af18c618df4c096ff7580d97f963bd9ba9ec38cc43f8c0d654a9cc3ba879da9f",
+  "sourceCommit": "56776a098ca4da6d38daafd3717b8507c4d4197a",
+  "blenderVersion": "5.0.1",
+  "originalScene": {
+    "camera": "Camera / HERO — studio portrait",
+    "matrixWorld": [
+      [
+        0.8682430982589722,
+        -0.16173197329044342,
+        0.4690380394458771,
+        4.0
+      ],
+      [
+        0.4961390197277069,
+        0.2830309569835663,
+        -0.8208163976669312,
+        -7.0
+      ],
+      [
+        -2.5155914684660274e-08,
+        0.9453762769699097,
+        0.3259811997413635,
+        2.799999952316284
+      ],
+      [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    ],
+    "orthographicScale": 4.179999828338623,
+    "viewTransform": "AgX",
+    "look": "AgX - Medium High Contrast",
+    "exposure": 0.3499999940395355,
+    "gamma": 1.0,
+    "displayDevice": "sRGB",
+    "bounces": {
+      "max_bounces": 16,
+      "transmission_bounces": 12,
+      "glossy_bounces": 8,
+      "transparent_max_bounces": 16
+    },
+    "denoiser": "OPENIMAGEDENOISE",
+    "denoisingUseGpu": false,
+    "renderSeed": 0
+  },
+  "rendering": {
+    "engine": "CYCLES",
+    "samples": 192,
+    "adaptiveThreshold": 0.01,
+    "resolution": [
+      880,
+      1056
+    ],
+    "pixelAspect": [
+      1,
+      1
+    ],
+    "master": "16-bit RGB PNG / sRGB",
+    "device": "OPTIX"
+  },
+  "measurements": [
+    {
+      "path": "previews/reference_reproduced.png",
+      "seconds": 13.703000000001339,
+      "bytes": 3530153,
+      "sha256": "50df351b4fac786bcfd4fcbd43c56a7404572de940ba15c9ebb2c7d5af942565"
+    },
+    {
+      "path": "stills/idle_full.png",
+      "seconds": 11.43699999999808,
+      "bytes": 3464103,
+      "sha256": "39458dbfb20708e1a692c203598c4765e90cd7a3156c178f5d2e443e6a75c4ba"
+    },
+    {
+      "path": "stills/finished_empty.png",
+      "seconds": 11.43800000000192,
+      "bytes": 3472090,
+      "sha256": "e89400fca8c1a6de76008da35c70d7b33bfaf2ab484a7b5d8767a272aacca9c1"
+    }
+  ]
+}

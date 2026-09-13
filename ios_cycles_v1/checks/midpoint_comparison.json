@@ -1,0 +1,93 @@
+{
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "measurements": [
+    {
+      "pair": [
+        49,
+        50
+      ],
+      "phase": 0,
+      "blendVsTrueMidpoint": {
+        "psnrDb": 44.533,
+        "mae8bit": 0.3999,
+        "maxError8bit": 64
+      },
+      "regions": {
+        "stream": {
+          "psnrDb": 40.925,
+          "mae8bit": 1.1386,
+          "maxError8bit": 38
+        },
+        "engraving": {
+          "psnrDb": 90.559,
+          "mae8bit": 0.0001,
+          "maxError8bit": 1
+        },
+        "upperSand": {
+          "psnrDb": 34.315,
+          "mae8bit": 3.8472,
+          "maxError8bit": 22
+        },
+        "lowerSand": {
+          "psnrDb": 38.051,
+          "mae8bit": 2.3514,
+          "maxError8bit": 20
+        },
+        "glass": {
+          "psnrDb": 42.413,
+          "mae8bit": 0.9043,
+          "maxError8bit": 41
+        },
+        "staticMetal": {
+          "psnrDb": 73.894,
+          "mae8bit": 0.0027,
+          "maxError8bit": 1
+        }
+      }
+    },
+    {
+      "pair": [
+        50,
+        51
+      ],
+      "phase": 0,
+      "blendVsTrueMidpoint": {
+        "psnrDb": 44.818,
+        "mae8bit": 0.3909,
+        "maxError8bit": 64
+      },
+      "regions": {
+        "stream": {
+          "psnrDb": 40.259,
+          "mae8bit": 1.2111,
+          "maxError8bit": 37
+        },
+        "engraving": {
+          "psnrDb": 85.788,
+          "mae8bit": 0.0002,
+          "maxError8bit": 1
+        },
+        "upperSand": {
+          "psnrDb": 34.728,
+          "mae8bit": 3.6537,
+          "maxError8bit": 28
+        },
+        "lowerSand": {
+          "psnrDb": 38.312,
+          "mae8bit": 2.2755,
+          "maxError8bit": 24
+        },
+        "glass": {
+          "psnrDb": 42.491,
+          "mae8bit": 0.8879,
+          "maxError8bit": 48
+        },
+        "staticMetal": {
+          "psnrDb": 74.431,
+          "mae8bit": 0.0023,
+          "maxError8bit": 1
+        }
+      }
+    }
+  ]
+}

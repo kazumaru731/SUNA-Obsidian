@@ -1,0 +1,11 @@
+{
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "noisySha256": "8647a907621c391996a1a779f3061814ea81ef224c6001ac786bd0875c8e171c",
+  "denoisedSha256": "f0fcd91ac4dd54374d2a9039f758f647559d9803c69ed70bd887ab1100c8f032",
+  "difference": {
+    "psnrDb": 32.117,
+    "mae8bit": 2.8716,
+    "maxError8bit": 157
+  },
+  "note": "Noisy render is diagnostic only. Review particle visibility in denoising_comparison.png."
+}

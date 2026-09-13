@@ -1,0 +1,17 @@
+{
+  "operatingSystem": "Windows-11-10.0.26200-SP0",
+  "pythonVersion": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpyVersion": "2.3.5",
+  "pillowVersion": "12.3.0",
+  "ffmpeg": "ffmpeg version 9.0.1-essentials_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+  "gpuNameDriverMemory": "NVIDIA GeForce RTX 2080 Ti, 591.86, 11264 MiB",
+  "blenderVersion": "5.0.1",
+  "ffmpegZipSha256": "fec81ae03971d9dd4be3ebe02e263bd2ec1d789483f931bdba5f5715e65da2e9",
+  "sourceCopiesSha256": {
+    "create_hourglass.py": "e31d6fdc461e3f29a58d3ba9ccd007f37475550d9c045f2223921dec16ecf786",
+    "render_delivery.py": "9ba333b05633c263d7109f7b829040c9d88f2decf8d3515135ab288a7acd6790",
+    "suna_hero.png": "25b064412175873e56c48f1e3891f735689dd3451681aa401c8d8c6b32316760",
+    "SUNA_Obsidian.blend": "af18c618df4c096ff7580d97f963bd9ba9ec38cc43f8c0d654a9cc3ba879da9f"
+  },
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f"
+}

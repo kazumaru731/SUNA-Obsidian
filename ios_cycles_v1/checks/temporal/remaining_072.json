@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "remainingFraction": 0.72,
+  "clipSha256": "322817017f0a30baeab678cf116e72ab17164e0d21498935b502960d5387944a",
+  "auditCodeSha256": "fa5dff6e690c3e5cfc7b14b9abfada37b1674d2a2921966f4f9ac5ad94c46508",
+  "decodedFrames": 48,
+  "streamAdjacentMAERange": [
+    4.363,
+    4.9278
+  ],
+  "streamSeamMAE": 4.8079,
+  "staticMetalAdjacentMAEMax": 0.3187,
+  "staticMetalSeamMAE": 0.4266,
+  "note": "Measurements use every decoded MP4 frame after explicit BT.709 -> sRGB conversion, not just PNG masters."
+}

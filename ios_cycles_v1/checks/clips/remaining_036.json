@@ -1,0 +1,2141 @@
+{
+  "passed": true,
+  "streams": 1,
+  "audioStreams": 0,
+  "frameCount": 48,
+  "durationSeconds": 2.0,
+  "firstFrameIDR": true,
+  "firstPTS": 0.0,
+  "lastPTS": 1.958333,
+  "constantFrameRate": true,
+  "stream": {
+    "codec_name": "h264",
+    "profile": "High",
+    "pix_fmt": "yuv420p",
+    "width": 880,
+    "height": 1056,
+    "sample_aspect_ratio": "1:1",
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "color_range": "tv",
+    "color_space": "bt709",
+    "color_transfer": "bt709",
+    "color_primaries": "bt709"
+  },
+  "fullyDecoded": true,
+  "blackOrMissingFrames": 0,
+  "psnrDbMinimum": 45.257,
+  "mae8bitMaximum": 0.8492,
+  "staticMetalMaxAdjacentMAE": 0.0002,
+  "streamAdjacentMAE": [
+    4.5671,
+    4.5448,
+    4.6188,
+    4.6528,
+    4.6978,
+    4.5002,
+    4.3402,
+    4.3515,
+    4.3897,
+    4.4345,
+    4.4672,
+    4.6035,
+    4.6551,
+    4.6579,
+    4.5182,
+    4.376,
+    4.2469,
+    4.2489,
+    4.3201,
+    4.4223,
+    4.556,
+    4.6412,
+    4.6388,
+    4.5481,
+    4.4902,
+    4.4643,
+    4.3514,
+    4.3997,
+    4.4989,
+    4.4682,
+    4.5123,
+    4.4919,
+    4.6297,
+    4.5071,
+    4.4604,
+    4.3569,
+    4.3927,
+    4.3703,
+    4.4395,
+    4.4775,
+    4.5356,
+    4.4963,
+    4.6221,
+    4.4784,
+    4.4205,
+    4.205,
+    4.29
+  ],
+  "streamSeamMAE": 4.3344,
+  "frameMeasurements": [
+    {
+      "frame": 0,
+      "psnrDb": 45.375,
+      "mae8bit": 0.8329,
+      "maxError8bit": 36,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.574,
+          "mae8bit": 1.7923,
+          "maxError8bit": 28
+        },
+        "engraving": {
+          "psnrDb": 44.972,
+          "mae8bit": 0.8831,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.193,
+          "mae8bit": 1.2867,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.504,
+          "mae8bit": 1.4039,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.476,
+          "mae8bit": 1.1,
+          "maxError8bit": 36
+        },
+        "staticMetal": {
+          "psnrDb": 44.255,
+          "mae8bit": 0.8401,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 1,
+      "psnrDb": 45.311,
+      "mae8bit": 0.8406,
+      "maxError8bit": 32,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.149,
+          "mae8bit": 1.8671,
+          "maxError8bit": 32
+        },
+        "engraving": {
+          "psnrDb": 44.97,
+          "mae8bit": 0.8863,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.194,
+          "mae8bit": 1.2893,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.5,
+          "mae8bit": 1.4064,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.325,
+          "mae8bit": 1.1128,
+          "maxError8bit": 32
+        },
+        "staticMetal": {
+          "psnrDb": 44.267,
+          "mae8bit": 0.838,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 2,
+      "psnrDb": 45.297,
+      "mae8bit": 0.8426,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.042,
+          "mae8bit": 1.8936,
+          "maxError8bit": 27
+        },
+        "engraving": {
+          "psnrDb": 44.981,
+          "mae8bit": 0.8836,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.202,
+          "mae8bit": 1.2875,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.497,
+          "mae8bit": 1.4062,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.308,
+          "mae8bit": 1.1155,
+          "maxError8bit": 27
+        },
+        "staticMetal": {
+          "psnrDb": 44.277,
+          "mae8bit": 0.8363,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 3,
+      "psnrDb": 45.281,
+      "mae8bit": 0.8427,
+      "maxError8bit": 39,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.813,
+          "mae8bit": 1.9397,
+          "maxError8bit": 30
+        },
+        "engraving": {
+          "psnrDb": 45.011,
+          "mae8bit": 0.8777,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.199,
+          "mae8bit": 1.2876,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.506,
+          "mae8bit": 1.4047,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.223,
+          "mae8bit": 1.1198,
+          "maxError8bit": 39
+        },
+        "staticMetal": {
+          "psnrDb": 44.276,
+          "mae8bit": 0.8373,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 4,
+      "psnrDb": 45.299,
+      "mae8bit": 0.8421,
+      "maxError8bit": 40,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.985,
+          "mae8bit": 1.8996,
+          "maxError8bit": 40
+        },
+        "engraving": {
+          "psnrDb": 45.01,
+          "mae8bit": 0.8769,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.21,
+          "mae8bit": 1.2852,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.491,
+          "mae8bit": 1.4073,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.286,
+          "mae8bit": 1.1151,
+          "maxError8bit": 40
+        },
+        "staticMetal": {
+          "psnrDb": 44.28,
+          "mae8bit": 0.8376,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 5,
+      "psnrDb": 45.323,
+      "mae8bit": 0.8412,
+      "maxError8bit": 33,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.235,
+          "mae8bit": 1.8671,
+          "maxError8bit": 33
+        },
+        "engraving": {
+          "psnrDb": 45.003,
+          "mae8bit": 0.8764,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.202,
+          "mae8bit": 1.2866,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.493,
+          "mae8bit": 1.4053,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.357,
+          "mae8bit": 1.1124,
+          "maxError8bit": 33
+        },
+        "staticMetal": {
+          "psnrDb": 44.273,
+          "mae8bit": 0.838,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 6,
+      "psnrDb": 45.301,
+      "mae8bit": 0.8422,
+      "maxError8bit": 34,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.983,
+          "mae8bit": 1.9211,
+          "maxError8bit": 34
+        },
+        "engraving": {
+          "psnrDb": 44.979,
+          "mae8bit": 0.8817,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.21,
+          "mae8bit": 1.2855,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.493,
+          "mae8bit": 1.4062,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.289,
+          "mae8bit": 1.1163,
+          "maxError8bit": 34
+        },
+        "staticMetal": {
+          "psnrDb": 44.269,
+          "mae8bit": 0.8387,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 7,
+      "psnrDb": 45.305,
+      "mae8bit": 0.8417,
+      "maxError8bit": 35,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.035,
+          "mae8bit": 1.8918,
+          "maxError8bit": 35
+        },
+        "engraving": {
+          "psnrDb": 44.997,
+          "mae8bit": 0.879,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.209,
+          "mae8bit": 1.2862,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.5,
+          "mae8bit": 1.4058,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.293,
+          "mae8bit": 1.1149,
+          "maxError8bit": 35
+        },
+        "staticMetal": {
+          "psnrDb": 44.282,
+          "mae8bit": 0.8353,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 8,
+      "psnrDb": 45.3,
+      "mae8bit": 0.8421,
+      "maxError8bit": 33,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.045,
+          "mae8bit": 1.897,
+          "maxError8bit": 31
+        },
+        "engraving": {
+          "psnrDb": 45.002,
+          "mae8bit": 0.8762,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.214,
+          "mae8bit": 1.2848,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.503,
+          "mae8bit": 1.4047,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.293,
+          "mae8bit": 1.1154,
+          "maxError8bit": 33
+        },
+        "staticMetal": {
+          "psnrDb": 44.279,
+          "mae8bit": 0.8377,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 9,
+      "psnrDb": 45.317,
+      "mae8bit": 0.8423,
+      "maxError8bit": 34,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.28,
+          "mae8bit": 1.8398,
+          "maxError8bit": 32
+        },
+        "engraving": {
+          "psnrDb": 44.975,
+          "mae8bit": 0.8814,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.218,
+          "mae8bit": 1.2835,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.501,
+          "mae8bit": 1.405,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.379,
+          "mae8bit": 1.1093,
+          "maxError8bit": 34
+        },
+        "staticMetal": {
+          "psnrDb": 44.267,
+          "mae8bit": 0.84,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 10,
+      "psnrDb": 45.312,
+      "mae8bit": 0.8434,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.196,
+          "mae8bit": 1.8647,
+          "maxError8bit": 27
+        },
+        "engraving": {
+          "psnrDb": 45.02,
+          "mae8bit": 0.8743,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.216,
+          "mae8bit": 1.2844,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.497,
+          "mae8bit": 1.4055,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.349,
+          "mae8bit": 1.1127,
+          "maxError8bit": 27
+        },
+        "staticMetal": {
+          "psnrDb": 44.28,
+          "mae8bit": 0.8371,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 11,
+      "psnrDb": 45.283,
+      "mae8bit": 0.8444,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.947,
+          "mae8bit": 1.9074,
+          "maxError8bit": 31
+        },
+        "engraving": {
+          "psnrDb": 44.992,
+          "mae8bit": 0.8808,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.217,
+          "mae8bit": 1.2836,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.493,
+          "mae8bit": 1.4071,
+          "maxError8bit": 12
+        },
+        "glass": {
+          "psnrDb": 43.246,
+          "mae8bit": 1.1178,
+          "maxError8bit": 31
+        },
+        "staticMetal": {
+          "psnrDb": 44.265,
+          "mae8bit": 0.8405,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 12,
+      "psnrDb": 45.282,
+      "mae8bit": 0.8445,
+      "maxError8bit": 38,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.849,
+          "mae8bit": 1.9274,
+          "maxError8bit": 38
+        },
+        "engraving": {
+          "psnrDb": 45.008,
+          "mae8bit": 0.8756,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.22,
+          "mae8bit": 1.283,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.508,
+          "mae8bit": 1.4049,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.264,
+          "mae8bit": 1.1175,
+          "maxError8bit": 38
+        },
+        "staticMetal": {
+          "psnrDb": 44.284,
+          "mae8bit": 0.8355,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 13,
+      "psnrDb": 45.284,
+      "mae8bit": 0.8458,
+      "maxError8bit": 34,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.95,
+          "mae8bit": 1.9146,
+          "maxError8bit": 34
+        },
+        "engraving": {
+          "psnrDb": 44.988,
+          "mae8bit": 0.8808,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.222,
+          "mae8bit": 1.2843,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.511,
+          "mae8bit": 1.4039,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.291,
+          "mae8bit": 1.1179,
+          "maxError8bit": 34
+        },
+        "staticMetal": {
+          "psnrDb": 44.268,
+          "mae8bit": 0.8392,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 14,
+      "psnrDb": 45.288,
+      "mae8bit": 0.8455,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.951,
+          "mae8bit": 1.9268,
+          "maxError8bit": 30
+        },
+        "engraving": {
+          "psnrDb": 44.996,
+          "mae8bit": 0.8789,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.222,
+          "mae8bit": 1.284,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.49,
+          "mae8bit": 1.4079,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.269,
+          "mae8bit": 1.1209,
+          "maxError8bit": 30
+        },
+        "staticMetal": {
+          "psnrDb": 44.281,
+          "mae8bit": 0.8373,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 15,
+      "psnrDb": 45.283,
+      "mae8bit": 0.8449,
+      "maxError8bit": 33,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.925,
+          "mae8bit": 1.9078,
+          "maxError8bit": 33
+        },
+        "engraving": {
+          "psnrDb": 44.977,
+          "mae8bit": 0.8835,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.226,
+          "mae8bit": 1.2832,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.475,
+          "mae8bit": 1.4106,
+          "maxError8bit": 12
+        },
+        "glass": {
+          "psnrDb": 43.26,
+          "mae8bit": 1.1181,
+          "maxError8bit": 33
+        },
+        "staticMetal": {
+          "psnrDb": 44.261,
+          "mae8bit": 0.8409,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 16,
+      "psnrDb": 45.292,
+      "mae8bit": 0.8448,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.055,
+          "mae8bit": 1.8856,
+          "maxError8bit": 30
+        },
+        "engraving": {
+          "psnrDb": 45.012,
+          "mae8bit": 0.8757,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.227,
+          "mae8bit": 1.2835,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.499,
+          "mae8bit": 1.4055,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.285,
+          "mae8bit": 1.1153,
+          "maxError8bit": 30
+        },
+        "staticMetal": {
+          "psnrDb": 44.279,
+          "mae8bit": 0.8375,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 17,
+      "psnrDb": 45.29,
+      "mae8bit": 0.8454,
+      "maxError8bit": 32,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.08,
+          "mae8bit": 1.8639,
+          "maxError8bit": 32
+        },
+        "engraving": {
+          "psnrDb": 44.984,
+          "mae8bit": 0.8847,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.23,
+          "mae8bit": 1.2824,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.498,
+          "mae8bit": 1.4064,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.325,
+          "mae8bit": 1.1125,
+          "maxError8bit": 32
+        },
+        "staticMetal": {
+          "psnrDb": 44.276,
+          "mae8bit": 0.8377,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 18,
+      "psnrDb": 45.282,
+      "mae8bit": 0.845,
+      "maxError8bit": 33,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.911,
+          "mae8bit": 1.8932,
+          "maxError8bit": 33
+        },
+        "engraving": {
+          "psnrDb": 45.0,
+          "mae8bit": 0.8785,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.227,
+          "mae8bit": 1.2834,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.507,
+          "mae8bit": 1.4034,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.265,
+          "mae8bit": 1.115,
+          "maxError8bit": 33
+        },
+        "staticMetal": {
+          "psnrDb": 44.289,
+          "mae8bit": 0.8369,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 19,
+      "psnrDb": 45.308,
+      "mae8bit": 0.8445,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.208,
+          "mae8bit": 1.8561,
+          "maxError8bit": 26
+        },
+        "engraving": {
+          "psnrDb": 44.992,
+          "mae8bit": 0.8806,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.225,
+          "mae8bit": 1.2828,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.506,
+          "mae8bit": 1.4057,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.369,
+          "mae8bit": 1.1106,
+          "maxError8bit": 26
+        },
+        "staticMetal": {
+          "psnrDb": 44.267,
+          "mae8bit": 0.8389,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 20,
+      "psnrDb": 45.288,
+      "mae8bit": 0.8458,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.991,
+          "mae8bit": 1.9029,
+          "maxError8bit": 31
+        },
+        "engraving": {
+          "psnrDb": 44.969,
+          "mae8bit": 0.8851,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.228,
+          "mae8bit": 1.2828,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.509,
+          "mae8bit": 1.4041,
+          "maxError8bit": 12
+        },
+        "glass": {
+          "psnrDb": 43.313,
+          "mae8bit": 1.1136,
+          "maxError8bit": 31
+        },
+        "staticMetal": {
+          "psnrDb": 44.283,
+          "mae8bit": 0.8384,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 21,
+      "psnrDb": 45.279,
+      "mae8bit": 0.8467,
+      "maxError8bit": 33,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.875,
+          "mae8bit": 1.927,
+          "maxError8bit": 33
+        },
+        "engraving": {
+          "psnrDb": 44.99,
+          "mae8bit": 0.8811,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.225,
+          "mae8bit": 1.2837,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.505,
+          "mae8bit": 1.4045,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.247,
+          "mae8bit": 1.1181,
+          "maxError8bit": 33
+        },
+        "staticMetal": {
+          "psnrDb": 44.275,
+          "mae8bit": 0.8386,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 22,
+      "psnrDb": 45.295,
+      "mae8bit": 0.8453,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.98,
+          "mae8bit": 1.9143,
+          "maxError8bit": 31
+        },
+        "engraving": {
+          "psnrDb": 44.985,
+          "mae8bit": 0.882,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.228,
+          "mae8bit": 1.2831,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.512,
+          "mae8bit": 1.4038,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.317,
+          "mae8bit": 1.1144,
+          "maxError8bit": 31
+        },
+        "staticMetal": {
+          "psnrDb": 44.281,
+          "mae8bit": 0.8393,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 23,
+      "psnrDb": 45.292,
+      "mae8bit": 0.8463,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.068,
+          "mae8bit": 1.9042,
+          "maxError8bit": 28
+        },
+        "engraving": {
+          "psnrDb": 45.007,
+          "mae8bit": 0.8753,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.228,
+          "mae8bit": 1.2827,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.5,
+          "mae8bit": 1.4069,
+          "maxError8bit": 12
+        },
+        "glass": {
+          "psnrDb": 43.331,
+          "mae8bit": 1.1148,
+          "maxError8bit": 28
+        },
+        "staticMetal": {
+          "psnrDb": 44.286,
+          "mae8bit": 0.8361,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 24,
+      "psnrDb": 45.283,
+      "mae8bit": 0.8462,
+      "maxError8bit": 36,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.002,
+          "mae8bit": 1.9071,
+          "maxError8bit": 36
+        },
+        "engraving": {
+          "psnrDb": 44.969,
+          "mae8bit": 0.8852,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.227,
+          "mae8bit": 1.2828,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.521,
+          "mae8bit": 1.4027,
+          "maxError8bit": 10
+        },
+        "glass": {
+          "psnrDb": 43.285,
+          "mae8bit": 1.1167,
+          "maxError8bit": 36
+        },
+        "staticMetal": {
+          "psnrDb": 44.258,
+          "mae8bit": 0.844,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 25,
+      "psnrDb": 45.293,
+      "mae8bit": 0.8468,
+      "maxError8bit": 33,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.158,
+          "mae8bit": 1.8902,
+          "maxError8bit": 33
+        },
+        "engraving": {
+          "psnrDb": 44.988,
+          "mae8bit": 0.8802,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.229,
+          "mae8bit": 1.2817,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.52,
+          "mae8bit": 1.4029,
+          "maxError8bit": 10
+        },
+        "glass": {
+          "psnrDb": 43.331,
+          "mae8bit": 1.1157,
+          "maxError8bit": 33
+        },
+        "staticMetal": {
+          "psnrDb": 44.271,
+          "mae8bit": 0.8387,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 26,
+      "psnrDb": 45.291,
+      "mae8bit": 0.8456,
+      "maxError8bit": 32,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.025,
+          "mae8bit": 1.8936,
+          "maxError8bit": 32
+        },
+        "engraving": {
+          "psnrDb": 44.999,
+          "mae8bit": 0.8769,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.228,
+          "mae8bit": 1.2829,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.496,
+          "mae8bit": 1.4081,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.301,
+          "mae8bit": 1.1166,
+          "maxError8bit": 32
+        },
+        "staticMetal": {
+          "psnrDb": 44.263,
+          "mae8bit": 0.8406,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 27,
+      "psnrDb": 45.279,
+      "mae8bit": 0.847,
+      "maxError8bit": 34,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.986,
+          "mae8bit": 1.887,
+          "maxError8bit": 34
+        },
+        "engraving": {
+          "psnrDb": 44.956,
+          "mae8bit": 0.8858,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.224,
+          "mae8bit": 1.2827,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.489,
+          "mae8bit": 1.409,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.273,
+          "mae8bit": 1.1161,
+          "maxError8bit": 34
+        },
+        "staticMetal": {
+          "psnrDb": 44.262,
+          "mae8bit": 0.8413,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 28,
+      "psnrDb": 45.262,
+      "mae8bit": 0.8479,
+      "maxError8bit": 34,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.759,
+          "mae8bit": 1.934,
+          "maxError8bit": 34
+        },
+        "engraving": {
+          "psnrDb": 44.99,
+          "mae8bit": 0.8778,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.22,
+          "mae8bit": 1.2835,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.513,
+          "mae8bit": 1.404,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.23,
+          "mae8bit": 1.1185,
+          "maxError8bit": 32
+        },
+        "staticMetal": {
+          "psnrDb": 44.281,
+          "mae8bit": 0.8353,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 29,
+      "psnrDb": 45.299,
+      "mae8bit": 0.8467,
+      "maxError8bit": 36,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.144,
+          "mae8bit": 1.8797,
+          "maxError8bit": 36
+        },
+        "engraving": {
+          "psnrDb": 44.964,
+          "mae8bit": 0.8861,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.223,
+          "mae8bit": 1.2831,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.514,
+          "mae8bit": 1.4042,
+          "maxError8bit": 12
+        },
+        "glass": {
+          "psnrDb": 43.335,
+          "mae8bit": 1.1149,
+          "maxError8bit": 36
+        },
+        "staticMetal": {
+          "psnrDb": 44.276,
+          "mae8bit": 0.8391,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 30,
+      "psnrDb": 45.282,
+      "mae8bit": 0.8473,
+      "maxError8bit": 34,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.954,
+          "mae8bit": 1.9087,
+          "maxError8bit": 34
+        },
+        "engraving": {
+          "psnrDb": 44.965,
+          "mae8bit": 0.8845,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.222,
+          "mae8bit": 1.2829,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.513,
+          "mae8bit": 1.4021,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.32,
+          "mae8bit": 1.1145,
+          "maxError8bit": 34
+        },
+        "staticMetal": {
+          "psnrDb": 44.272,
+          "mae8bit": 0.8408,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 31,
+      "psnrDb": 45.266,
+      "mae8bit": 0.8482,
+      "maxError8bit": 34,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.843,
+          "mae8bit": 1.9476,
+          "maxError8bit": 34
+        },
+        "engraving": {
+          "psnrDb": 44.989,
+          "mae8bit": 0.8792,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.211,
+          "mae8bit": 1.2853,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.485,
+          "mae8bit": 1.4086,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.209,
+          "mae8bit": 1.1238,
+          "maxError8bit": 34
+        },
+        "staticMetal": {
+          "psnrDb": 44.276,
+          "mae8bit": 0.8385,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 32,
+      "psnrDb": 45.282,
+      "mae8bit": 0.8473,
+      "maxError8bit": 32,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.063,
+          "mae8bit": 1.8979,
+          "maxError8bit": 28
+        },
+        "engraving": {
+          "psnrDb": 44.985,
+          "mae8bit": 0.8814,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.211,
+          "mae8bit": 1.285,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.506,
+          "mae8bit": 1.4054,
+          "maxError8bit": 12
+        },
+        "glass": {
+          "psnrDb": 43.289,
+          "mae8bit": 1.1159,
+          "maxError8bit": 32
+        },
+        "staticMetal": {
+          "psnrDb": 44.288,
+          "mae8bit": 0.8373,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 33,
+      "psnrDb": 45.286,
+      "mae8bit": 0.8474,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.096,
+          "mae8bit": 1.8785,
+          "maxError8bit": 31
+        },
+        "engraving": {
+          "psnrDb": 44.979,
+          "mae8bit": 0.8813,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.216,
+          "mae8bit": 1.2838,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.506,
+          "mae8bit": 1.405,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.32,
+          "mae8bit": 1.1138,
+          "maxError8bit": 31
+        },
+        "staticMetal": {
+          "psnrDb": 44.27,
+          "mae8bit": 0.8409,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 34,
+      "psnrDb": 45.284,
+      "mae8bit": 0.8477,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.013,
+          "mae8bit": 1.8969,
+          "maxError8bit": 29
+        },
+        "engraving": {
+          "psnrDb": 44.961,
+          "mae8bit": 0.8869,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.212,
+          "mae8bit": 1.2848,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.515,
+          "mae8bit": 1.404,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.3,
+          "mae8bit": 1.1147,
+          "maxError8bit": 29
+        },
+        "staticMetal": {
+          "psnrDb": 44.268,
+          "mae8bit": 0.8425,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 35,
+      "psnrDb": 45.269,
+      "mae8bit": 0.8481,
+      "maxError8bit": 38,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.907,
+          "mae8bit": 1.9096,
+          "maxError8bit": 35
+        },
+        "engraving": {
+          "psnrDb": 44.969,
+          "mae8bit": 0.8812,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.182,
+          "mae8bit": 1.2916,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.504,
+          "mae8bit": 1.4062,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.255,
+          "mae8bit": 1.1166,
+          "maxError8bit": 38
+        },
+        "staticMetal": {
+          "psnrDb": 44.278,
+          "mae8bit": 0.8376,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 36,
+      "psnrDb": 45.268,
+      "mae8bit": 0.8491,
+      "maxError8bit": 35,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.945,
+          "mae8bit": 1.8968,
+          "maxError8bit": 35
+        },
+        "engraving": {
+          "psnrDb": 44.972,
+          "mae8bit": 0.8805,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.194,
+          "mae8bit": 1.289,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.497,
+          "mae8bit": 1.4078,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.279,
+          "mae8bit": 1.1149,
+          "maxError8bit": 35
+        },
+        "staticMetal": {
+          "psnrDb": 44.282,
+          "mae8bit": 0.836,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 37,
+      "psnrDb": 45.283,
+      "mae8bit": 0.8482,
+      "maxError8bit": 32,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.05,
+          "mae8bit": 1.887,
+          "maxError8bit": 32
+        },
+        "engraving": {
+          "psnrDb": 44.955,
+          "mae8bit": 0.884,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.194,
+          "mae8bit": 1.2894,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.503,
+          "mae8bit": 1.4058,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.318,
+          "mae8bit": 1.1139,
+          "maxError8bit": 32
+        },
+        "staticMetal": {
+          "psnrDb": 44.272,
+          "mae8bit": 0.8385,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 38,
+      "psnrDb": 45.285,
+      "mae8bit": 0.8479,
+      "maxError8bit": 32,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.028,
+          "mae8bit": 1.8921,
+          "maxError8bit": 32
+        },
+        "engraving": {
+          "psnrDb": 44.965,
+          "mae8bit": 0.8824,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.199,
+          "mae8bit": 1.2879,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.511,
+          "mae8bit": 1.4034,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.314,
+          "mae8bit": 1.1135,
+          "maxError8bit": 32
+        },
+        "staticMetal": {
+          "psnrDb": 44.275,
+          "mae8bit": 0.8379,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 39,
+      "psnrDb": 45.274,
+      "mae8bit": 0.849,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.989,
+          "mae8bit": 1.9112,
+          "maxError8bit": 30
+        },
+        "engraving": {
+          "psnrDb": 44.936,
+          "mae8bit": 0.8902,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.207,
+          "mae8bit": 1.2862,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.499,
+          "mae8bit": 1.4071,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.294,
+          "mae8bit": 1.1154,
+          "maxError8bit": 30
+        },
+        "staticMetal": {
+          "psnrDb": 44.264,
+          "mae8bit": 0.8415,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 40,
+      "psnrDb": 45.268,
+      "mae8bit": 0.8488,
+      "maxError8bit": 34,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.913,
+          "mae8bit": 1.9264,
+          "maxError8bit": 34
+        },
+        "engraving": {
+          "psnrDb": 44.961,
+          "mae8bit": 0.8821,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.215,
+          "mae8bit": 1.285,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.512,
+          "mae8bit": 1.4022,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.25,
+          "mae8bit": 1.1165,
+          "maxError8bit": 34
+        },
+        "staticMetal": {
+          "psnrDb": 44.275,
+          "mae8bit": 0.8384,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 41,
+      "psnrDb": 45.286,
+      "mae8bit": 0.8478,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.116,
+          "mae8bit": 1.8875,
+          "maxError8bit": 30
+        },
+        "engraving": {
+          "psnrDb": 44.974,
+          "mae8bit": 0.8828,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.215,
+          "mae8bit": 1.2833,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.504,
+          "mae8bit": 1.4053,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.35,
+          "mae8bit": 1.112,
+          "maxError8bit": 30
+        },
+        "staticMetal": {
+          "psnrDb": 44.284,
+          "mae8bit": 0.8373,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 42,
+      "psnrDb": 45.298,
+      "mae8bit": 0.848,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.256,
+          "mae8bit": 1.8663,
+          "maxError8bit": 29
+        },
+        "engraving": {
+          "psnrDb": 44.999,
+          "mae8bit": 0.8766,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.221,
+          "mae8bit": 1.2829,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.506,
+          "mae8bit": 1.4046,
+          "maxError8bit": 12
+        },
+        "glass": {
+          "psnrDb": 43.375,
+          "mae8bit": 1.1121,
+          "maxError8bit": 29
+        },
+        "staticMetal": {
+          "psnrDb": 44.289,
+          "mae8bit": 0.8339,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 43,
+      "psnrDb": 45.278,
+      "mae8bit": 0.8492,
+      "maxError8bit": 32,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.091,
+          "mae8bit": 1.8838,
+          "maxError8bit": 32
+        },
+        "engraving": {
+          "psnrDb": 44.971,
+          "mae8bit": 0.8812,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.214,
+          "mae8bit": 1.2835,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.521,
+          "mae8bit": 1.4028,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.317,
+          "mae8bit": 1.1138,
+          "maxError8bit": 32
+        },
+        "staticMetal": {
+          "psnrDb": 44.284,
+          "mae8bit": 0.8365,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 44,
+      "psnrDb": 45.303,
+      "mae8bit": 0.8444,
+      "maxError8bit": 32,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.037,
+          "mae8bit": 1.8962,
+          "maxError8bit": 32
+        },
+        "engraving": {
+          "psnrDb": 44.98,
+          "mae8bit": 0.8814,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.223,
+          "mae8bit": 1.283,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.51,
+          "mae8bit": 1.4049,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.331,
+          "mae8bit": 1.1138,
+          "maxError8bit": 32
+        },
+        "staticMetal": {
+          "psnrDb": 44.271,
+          "mae8bit": 0.8392,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 45,
+      "psnrDb": 45.294,
+      "mae8bit": 0.8467,
+      "maxError8bit": 42,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.063,
+          "mae8bit": 1.8928,
+          "maxError8bit": 42
+        },
+        "engraving": {
+          "psnrDb": 44.957,
+          "mae8bit": 0.8847,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.225,
+          "mae8bit": 1.2826,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.512,
+          "mae8bit": 1.404,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.322,
+          "mae8bit": 1.1137,
+          "maxError8bit": 42
+        },
+        "staticMetal": {
+          "psnrDb": 44.28,
+          "mae8bit": 0.8374,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 0.0
+    },
+    {
+      "frame": 46,
+      "psnrDb": 45.298,
+      "mae8bit": 0.8464,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 38.102,
+          "mae8bit": 1.8823,
+          "maxError8bit": 30
+        },
+        "engraving": {
+          "psnrDb": 44.961,
+          "mae8bit": 0.8833,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.226,
+          "mae8bit": 1.2824,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.511,
+          "mae8bit": 1.4036,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.364,
+          "mae8bit": 1.1109,
+          "maxError8bit": 30
+        },
+        "staticMetal": {
+          "psnrDb": 44.28,
+          "mae8bit": 0.8387,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    },
+    {
+      "frame": 47,
+      "psnrDb": 45.257,
+      "mae8bit": 0.8486,
+      "maxError8bit": 31,
+      "regions": {
+        "stream": {
+          "psnrDb": 37.81,
+          "mae8bit": 1.9378,
+          "maxError8bit": 30
+        },
+        "engraving": {
+          "psnrDb": 44.956,
+          "mae8bit": 0.8856,
+          "maxError8bit": 13
+        },
+        "upperSand": {
+          "psnrDb": 43.226,
+          "mae8bit": 1.2824,
+          "maxError8bit": 14
+        },
+        "lowerSand": {
+          "psnrDb": 42.509,
+          "mae8bit": 1.4049,
+          "maxError8bit": 11
+        },
+        "glass": {
+          "psnrDb": 43.195,
+          "mae8bit": 1.12,
+          "maxError8bit": 30
+        },
+        "staticMetal": {
+          "psnrDb": 44.277,
+          "mae8bit": 0.8395,
+          "maxError8bit": 24
+        }
+      },
+      "newBlackPixelsFraction": 0.0,
+      "newWhitePixelsFraction": 1.0761019283746556e-06
+    }
+  ],
+  "decodedMeanRange": [
+    67.65272361398071,
+    67.69511593204776
+  ],
+  "staticFinishedClip": false,
+  "visualReview": "See pilot_gate.json; numerical checks do not replace visual review.",
+  "remainingFraction": 0.36,
+  "path": "clips/remaining_036.mp4",
+  "sha256": "b35c38282b7a50f1317ca222771bf345da94129903ee23b810f7eb8c0f50cea8",
+  "bytes": 485369,
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "encoderSignature": "9dc3e7b1f323ca7cce20d2b771b16f157f5fdefe496a0ab36b7802629cb337e7",
+  "inputSha256": "a722e95489f0de363a0dc0db65bb61ce640b10b8922960d08e7929fc7f0389bb",
+  "masterSha256": [
+    "ada466aceef89a5de644645ff47db14cfa311bd8e7c45ca3bb8ce99369914b87",
+    "8993a696257216704071cf4cbe6299886191cdef7e8e8a78959847f9a8f28425",
+    "458dabb4887fc4df9ab8b60913baa42763059ac85e21144b4f5791e05f685917",
+    "4c9aa84505cc2c4614f1317863ed5a1048d8050b2f4063d63d522aa84643455d",
+    "5eba6baf467b4173d6b9818c220a30797ac584bf1d865a7a0fb9b58a4e491239",
+    "b301345c9698ca70a68f37f478c7e0f7d2ededb85a1a0bcb061e3f1eeb997b1b",
+    "6481494f2ea2b8666a0b12d907ba27ad54a6dc893b2cc2b7541e26bb77f1a133",
+    "76a01ec13a249b0fb3b9062810d24ee71eb1a87e5588401a8d158230608a5db0",
+    "700f59377d2bbe32baf147a55a1e618e3f3a47f6481d2329e6d9a6f44c2ca03b",
+    "bca07e0f1879c42b5545813e552a6ced69f0478f796d978e7397b94abcff0332",
+    "af536ee2aa5f31b63a872eebc094b1776c541de66ba0eafd6225a46021a2fec9",
+    "df5d02b0fc0ca20ce94a631be2a9f5f05a7253521fd7aa259851573c3ee8445f",
+    "b4b1922f1f7900fcb6d475e52360017390808633cedffc0a9c81d2a88df261f3",
+    "7f15bc41cc49a6534eb02f98fe37dc7a3e1fbd22cf12e0dd9808adca86859340",
+    "44ab62c888d2d9a53e6b734f235dc77caf092aa0eba6c8e633818ad13332b82a",
+    "812265368b536a4db58a71bed60e836f919c7d097038355b0e704088f74935ad",
+    "c939af8c0e7cd41345a8ac02e3368ac7bcb28f4e00f1a5caaaccc1864d422f4b",
+    "eda810c0add6d5841aa8aa0a5d6321643d1d67a8d89e16b32a469598d9b55fc3",
+    "cd6ac31692464bc5118fd504eee62a6d6adb93b5b3b066002aec3173803caee6",
+    "6d893e48e92d5dafd38d7722c8915bcce0bc69c64eec56e6578a092ca9be7a3b",
+    "71d00375e43244fdd32611bceaa583e057d854b787659a83d09b90a0c8f484d9",
+    "6394dfe1d12224cfdfa1ae2beda7228aba19df95f3456f572ca95a2e99aa295f",
+    "7406ca682309f8c1d8c7c235b93429b20dac79268a6f3af6cc33318e25ebfd3c",
+    "6d44810ce36588b2656db5a3c7892e66d84f95c1ff51deb4fedd377e4cafc4f4",
+    "3a1d9bf494ed98fa3c2ef551d08144be91ba3e4b62c8b51ddd819aa3da374def",
+    "6ee14f022a8e1c7f8ff9b53808de1a74eb50d7d49b202efa657d6925f2fba9d6",
+    "f3999933208e09d4b3b78e9f83bf9b030939c50decc6d5bdcae6835a412d9436",
+    "4fca198623fc9768762c1be54f5f79b98cfb7a7b36546580145b088b5284577e",
+    "b73a4a40bf2ab84985122e81ad58675a10a7daeb22c7e3e5583cb8f9f786adbd",
+    "007cf86de38ad28ea128504a68252fa4bde3252132cf7a93a95be4fca8b61bed",
+    "c63949b0c7e1e6013fd2b0214d42f1a6d655fd4dd7f8824a29ada41f4a094281",
+    "9ccca93a733ad269ed8f6b86b434f1405497db8885f2bb960fe600c4c05e0f80",
+    "fffe468d18b303650ebefcb4d957411d499a2f0a0a36181a6e7e804db4016b99",
+    "aeb972278072e82d2280869cef30477559b9ddffd9955ff131a424da3458de7e",
+    "bce23e26f0e874a7527d5788b5b47c8094881bc4a063c9fab5b8c61173a9031b",
+    "d23396b45d445ebb5378b9ea09e8cad00cf0dabaea98641e006874853c27084a",
+    "84761f024b88da7e97b739b3f4da7cd6d2fd6367907101625d1075af82335236",
+    "d3b41ff2b31a9bb473f2cada0fec8c917c01fb2e988350405753b30728816ba7",
+    "b1ec7837d4359dd90e8bd41a1a514daa74e4c0de0470d1d880b8ffc32ec06875",
+    "34d3cef3bde3306019bd0e0079e2189167542b2ac302c44fb6c9a8879056605a",
+    "45449ed49ca31b0c3c697403581d0198357ec7d5aade3b45d8439459e2c188a3",
+    "e6ff463c4badbb1bd7969360aadf2e69cf25b2180107c82daf6a4d7de3cdcd8c",
+    "9395651ab7f83088226b8f9d1c19ff16cb8f763a042cbeef08bfe4564e02e72d",
+    "27acc8e0e88d951571ccf04a8f8b72460580e8ed76bd56d039e597057684d20d",
+    "81e30b68e7edf74ac509aac36be9de98886616048ff8d8baf10e25c5196d9c21",
+    "772f351a5d8d49c89ad643f315cc7151d2c3aa6824f25e6685d7afffc972c222",
+    "0f587b627beb1bf195ac3b907fe4e5bb6590b4b1cc02ac1ca4790543afa582ca",
+    "52050107edf357ab4cc757d33aa0bc9f8e7c683f12e692bcbdfce18dd26b02d7"
+  ],
+  "encoding": {
+    "encoder": "libx264",
+    "profile": "High",
+    "level": "4.1",
+    "crf": 14,
+    "preset": "slow",
+    "pixelFormat": "yuv420p",
+    "bFrames": 0,
+    "gop": 48,
+    "colorPrimaries": "bt709",
+    "transfer": "bt709",
+    "matrix": "bt709",
+    "range": "limited",
+    "source": "sRGB full-range RGB16",
+    "filter": "format=gbrp16le,zscale=matrixin=gbr:matrix=bt709:transferin=iec61966-2-1:transfer=bt709:primariesin=bt709:primaries=bt709:rangein=full:range=limited:dither=error_diffusion,format=yuv420p,setsar=1",
+    "audio": false,
+    "fastStart": true,
+    "zeroPercent": "Repeat one identical encoded IDR access unit 48 times"
+  },
+  "encodeAndValidateSeconds": 11.485,
+  "command": [
+    "D:\\Projects\\suna\\ios_cycles_v1\\tools\\ffmpeg\\ffmpeg-9.0.1-essentials_build\\bin\\ffmpeg.exe",
+    "-v",
+    "error",
+    "-y",
+    "-framerate",
+    "24",
+    "-start_number",
+    "0",
+    "-i",
+    "D:\\Projects\\suna\\ios_cycles_v1_masters\\frames\\remaining_036\\frame_%04d.png",
+    "-vf",
+    "format=gbrp16le,zscale=matrixin=gbr:matrix=bt709:transferin=iec61966-2-1:transfer=bt709:primariesin=bt709:primaries=bt709:rangein=full:range=limited:dither=error_diffusion,format=yuv420p,setsar=1",
+    "-frames:v",
+    "48",
+    "-an",
+    "-c:v",
+    "libx264",
+    "-profile:v",
+    "high",
+    "-level:v",
+    "4.1",
+    "-preset",
+    "slow",
+    "-crf",
+    "14",
+    "-pix_fmt",
+    "yuv420p",
+    "-r",
+    "24",
+    "-fps_mode",
+    "cfr",
+    "-g",
+    "48",
+    "-keyint_min",
+    "48",
+    "-sc_threshold",
+    "0",
+    "-bf",
+    "0",
+    "-x264-params",
+    "open-gop=0:force-cfr=1",
+    "-color_primaries",
+    "bt709",
+    "-color_trc",
+    "bt709",
+    "-colorspace",
+    "bt709",
+    "-color_range",
+    "tv",
+    "-movflags",
+    "+faststart",
+    "-video_track_timescale",
+    "24000",
+    "D:\\Projects\\suna\\ios_cycles_v1\\clips\\remaining_036.partial.mp4"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "testsRun": 8,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "scope": "Corrupt/missing/stale masters, incomplete delivery rejection, gate rejection, and process liveness."
+}

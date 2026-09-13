@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "status": "complete",
+  "complete": true,
+  "sourcePreserved": true,
+  "sourceSha256": "af18c618df4c096ff7580d97f963bd9ba9ec38cc43f8c0d654a9cc3ba879da9f",
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "validatedClips": 101,
+  "expectedClips": 101,
+  "missingRemainingPercents": [],
+  "pilotGatePassed": true,
+  "previewVerified": true,
+  "motionAndVolumesPassed": true,
+  "stillsPassed": true,
+  "masterChecks": "CRC, full PNG decompression, RGB16 format, input SHA-256 and render signature before each encode.",
+  "videoChecks": "All decoded frames, dimensions, duration, CFR timestamps, first IDR, profile, color tags, audio absence, black frames, compression error, seam and static metal.",
+  "decodedTemporalReports": "checks/temporal/remaining_NNN.json",
+  "numericalReports": [
+    "motion_validation.json",
+    "reservoir_validation.json",
+    "trajectory_validation.json"
+  ],
+  "visualReview": "checks/pilot_gate.json",
+  "iPhoneDeviceTest": "not performed; Mac team responsibility",
+  "measurements": {
+    "renderedMasterFrames": 4848,
+    "expectedMasterFrames": 4848,
+    "dynamicFramesCompleted": 4800,
+    "dynamicFramesExpected": 4800,
+    "meanMeasuredRenderSeconds": 9.650788958333273,
+    "measuredDynamicRenderSeconds": 46323.786999999706,
+    "remainingRenderHoursEstimate": 0.0,
+    "totalRenderHoursEstimate": 12.86771861111103,
+    "masterBytesEstimate": 17052915948,
+    "masterBytesCurrently": 17050735517,
+    "estimateNote": "Render-only estimate; allow 10-20% for encoding, verification, GPU load and startup.",
+    "appClipBytesCurrent": 48988968,
+    "appClipBytesEstimate": 48988968
+  }
+}

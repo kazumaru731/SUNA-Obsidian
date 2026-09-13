@@ -1,0 +1,1048 @@
+{
+  "passed": true,
+  "remainingStates": [
+    {
+      "remaining": 0,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.7824512367248535
+    },
+    {
+      "remaining": 1,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.7862672452926636
+    },
+    {
+      "remaining": 2,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.7900831942558288
+    },
+    {
+      "remaining": 3,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.7939194087982178
+    },
+    {
+      "remaining": 4,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.7977574710845947
+    },
+    {
+      "remaining": 5,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8016147260665893
+    },
+    {
+      "remaining": 6,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8054757957458496
+    },
+    {
+      "remaining": 7,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8093552236557007
+    },
+    {
+      "remaining": 8,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8132406716346741
+    },
+    {
+      "remaining": 9,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8171428089141846
+    },
+    {
+      "remaining": 10,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8210533504486084
+    },
+    {
+      "remaining": 11,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8249792103767395
+    },
+    {
+      "remaining": 12,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8289159183502197
+    },
+    {
+      "remaining": 13,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8328659777641296
+    },
+    {
+      "remaining": 14,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8368298058509827
+    },
+    {
+      "remaining": 15,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8408052568435669
+    },
+    {
+      "remaining": 16,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8447970991134643
+    },
+    {
+      "remaining": 17,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8487985973358154
+    },
+    {
+      "remaining": 18,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8528192882537842
+    },
+    {
+      "remaining": 19,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8568474297523498
+    },
+    {
+      "remaining": 20,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8608976249694824
+    },
+    {
+      "remaining": 21,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8649530653953552
+    },
+    {
+      "remaining": 22,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8690338973999023
+    },
+    {
+      "remaining": 23,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8731171731948852
+    },
+    {
+      "remaining": 24,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8772291784286499
+    },
+    {
+      "remaining": 25,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8813410048484802
+    },
+    {
+      "remaining": 26,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8854847793579101
+    },
+    {
+      "remaining": 27,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8896283750534058
+    },
+    {
+      "remaining": 28,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8938018922805786
+    },
+    {
+      "remaining": 29,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.8979781513214111
+    },
+    {
+      "remaining": 30,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9021818881034851
+    },
+    {
+      "remaining": 31,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9063911681175232
+    },
+    {
+      "remaining": 32,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9106258397102356
+    },
+    {
+      "remaining": 33,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9148689751625061
+    },
+    {
+      "remaining": 34,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9191360120773315
+    },
+    {
+      "remaining": 35,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9234149103164673
+    },
+    {
+      "remaining": 36,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9277168159484863
+    },
+    {
+      "remaining": 37,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9320352320671081
+    },
+    {
+      "remaining": 38,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9363755230903625
+    },
+    {
+      "remaining": 39,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.940737808227539
+    },
+    {
+      "remaining": 40,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9451197032928467
+    },
+    {
+      "remaining": 41,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9495291357040405
+    },
+    {
+      "remaining": 42,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9539555554389954
+    },
+    {
+      "remaining": 43,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9584160094261169
+    },
+    {
+      "remaining": 44,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9628899936676025
+    },
+    {
+      "remaining": 45,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9674046878814697
+    },
+    {
+      "remaining": 46,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9719292168617248
+    },
+    {
+      "remaining": 47,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9765021448135376
+    },
+    {
+      "remaining": 48,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.981080198764801
+    },
+    {
+      "remaining": 49,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9857148771286011
+    },
+    {
+      "remaining": 50,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9903494958877563
+    },
+    {
+      "remaining": 51,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9950501565933227
+    },
+    {
+      "remaining": 52,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -0.9997506980895996
+    },
+    {
+      "remaining": 53,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0045154933929443
+    },
+    {
+      "remaining": 54,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.009286129951477
+    },
+    {
+      "remaining": 55,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0141183977127075
+    },
+    {
+      "remaining": 56,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0189630632400513
+    },
+    {
+      "remaining": 57,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0238657836914062
+    },
+    {
+      "remaining": 58,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0287880544662475
+    },
+    {
+      "remaining": 59,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.033764446258545
+    },
+    {
+      "remaining": 60,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0387677793502808
+    },
+    {
+      "remaining": 61,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0438209419250488
+    },
+    {
+      "remaining": 62,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0489098672866821
+    },
+    {
+      "remaining": 63,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.054043734550476
+    },
+    {
+      "remaining": 64,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0592229013442993
+    },
+    {
+      "remaining": 65,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0644416456222534
+    },
+    {
+      "remaining": 66,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0697159414291382
+    },
+    {
+      "remaining": 67,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.075023377418518
+    },
+    {
+      "remaining": 68,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0803969745635986
+    },
+    {
+      "remaining": 69,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0857963209152222
+    },
+    {
+      "remaining": 70,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.0912729148864746
+    },
+    {
+      "remaining": 71,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.09676727104187
+    },
+    {
+      "remaining": 72,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.10235067653656
+    },
+    {
+      "remaining": 73,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1079432611465454
+    },
+    {
+      "remaining": 74,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1136380081176758
+    },
+    {
+      "remaining": 75,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1193329935073852
+    },
+    {
+      "remaining": 76,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1251440887451172
+    },
+    {
+      "remaining": 77,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.130955183982849
+    },
+    {
+      "remaining": 78,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1368897800445557
+    },
+    {
+      "remaining": 79,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1428354625701904
+    },
+    {
+      "remaining": 80,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1490691547393799
+    },
+    {
+      "remaining": 81,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1553604249954224
+    },
+    {
+      "remaining": 82,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1620171909332275
+    },
+    {
+      "remaining": 83,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1687959079742432
+    },
+    {
+      "remaining": 84,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.1759684925079346
+    },
+    {
+      "remaining": 85,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.183338249206543
+    },
+    {
+      "remaining": 86,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.191137993812561
+    },
+    {
+      "remaining": 87,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.199244821548462
+    },
+    {
+      "remaining": 88,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.2078307514190674
+    },
+    {
+      "remaining": 89,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.2168956642150879
+    },
+    {
+      "remaining": 90,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.2265045289993286
+    },
+    {
+      "remaining": 91,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.2368752603530884
+    },
+    {
+      "remaining": 92,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.2478819732666016
+    },
+    {
+      "remaining": 93,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.2601610069274902
+    },
+    {
+      "remaining": 94,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.273223126411438
+    },
+    {
+      "remaining": 95,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.2886340265274048
+    },
+    {
+      "remaining": 96,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.3051372413635254
+    },
+    {
+      "remaining": 97,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.3271016721725464
+    },
+    {
+      "remaining": 98,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.3539064769744873
+    },
+    {
+      "remaining": 99,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.4339532499313354
+    },
+    {
+      "remaining": 100,
+      "loopEndpointMaxError": 0.0,
+      "phaseCount": 48,
+      "phaseRangeSeconds": [
+        0,
+        1.9583333333333333
+      ],
+      "landingZ": -1.5140000228881836
+    }
+  ],
+  "adjacentIdentityChecks": [
+    {
+      "pair": [
+        49,
+        50
+      ],
+      "sameStreamXY": true,
+      "maxWorldDisplacement": 0.0047299861907958984
+    },
+    {
+      "pair": [
+        50,
+        51
+      ],
+      "sameStreamXY": true,
+      "maxWorldDisplacement": 0.004817008972167969
+    },
+    {
+      "pair": [
+        0,
+        1
+      ],
+      "sameStreamXY": true,
+      "maxWorldDisplacement": 0.003908812999725342
+    }
+  ],
+  "commonSeed": 29,
+  "streamGrains": 340,
+  "impactGrains": 125,
+  "respawnPolicy": "Direct time evaluation: stream resets from landing to throat; rebounds reset on the sand surface. No keyframe interpolation across a reset.",
+  "exactPeriodSeconds": 2.0,
+  "streamCyclesPerPeriod": 5,
+  "impactCyclesPerPeriod": 6
+}

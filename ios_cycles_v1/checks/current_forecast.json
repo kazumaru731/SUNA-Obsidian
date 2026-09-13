@@ -1,0 +1,13 @@
+{
+  "observedUTC": "2026-09-12T15:04:52Z",
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "recentFrames": 10,
+  "recentMeanSecondsPerFrame": 16.567300000000976,
+  "remainingDynamicFrames": 4539,
+  "remainingRenderHoursAtRecentSpeed": 20.888604083334563,
+  "includingChecksHoursRange": [
+    21.933034287501293,
+    25.066324900001476
+  ],
+  "basis": "Recent full-production frames at the current GPU load; state complexity and machine load can change throughput."
+}

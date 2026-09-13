@@ -1,0 +1,19 @@
+{
+  "beforePause": [
+    {
+      "path": "D:\\Projects\\suna\\ios_cycles_v1_masters\\frames\\remaining_002\\frame_0000.png",
+      "sha256": "2f712eaa0ffd045f240ccb53271cdfeb7170ae5686f7bdbeb292ed379e886220",
+      "mtimeNs": 1789225090579527400
+    },
+    {
+      "path": "D:\\Projects\\suna\\ios_cycles_v1_masters\\frames\\remaining_002\\frame_0001.png",
+      "sha256": "1a33a3da444c33000c2745eadc2287f90be29928831f92e11e81e2decb7aa6ed",
+      "mtimeNs": 1789225107196719100
+    },
+    {
+      "path": "D:\\Projects\\suna\\ios_cycles_v1_masters\\frames\\remaining_002\\frame_0002.png",
+      "sha256": "78ad84f3f15937de822fee1c74edb2c807d27439701249ee0e29ec36a45e6965",
+      "mtimeNs": 1789225123683799700
+    }
+  ]
+}

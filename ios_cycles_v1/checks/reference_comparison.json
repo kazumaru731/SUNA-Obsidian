@@ -1,0 +1,57 @@
+{
+  "sourceHeroSha256": "25b064412175873e56c48f1e3891f735689dd3451681aa401c8d8c6b32316760",
+  "reproducedSha256": "50df351b4fac786bcfd4fcbd43c56a7404572de940ba15c9ebb2c7d5af942565",
+  "periodic50Phase0Sha256": "f0fcd91ac4dd54374d2a9039f758f647559d9803c69ed70bd887ab1100c8f032",
+  "reproducedVsPeriodic": {
+    "psnrDb": 62.088,
+    "mae8bit": 0.007,
+    "maxError8bit": 47
+  },
+  "resizedHeroVsReproduced": {
+    "psnrDb": 40.064,
+    "mae8bit": 0.8014,
+    "maxError8bit": 123
+  },
+  "neighborPhase0": [
+    {
+      "pair": [
+        49,
+        50
+      ],
+      "phase": 0,
+      "staticMetalDifference": {
+        "psnrDb": 74.547,
+        "mae8bit": 0.0023,
+        "maxError8bit": 1
+      },
+      "note": "Surface height and refraction are expected to change with remaining sand."
+    },
+    {
+      "pair": [
+        50,
+        51
+      ],
+      "phase": 0,
+      "staticMetalDifference": {
+        "psnrDb": 71.891,
+        "mae8bit": 0.0042,
+        "maxError8bit": 2
+      },
+      "note": "Surface height and refraction are expected to change with remaining sand."
+    },
+    {
+      "pair": [
+        1,
+        0
+      ],
+      "phase": 0,
+      "staticMetalDifference": {
+        "psnrDb": 83.794,
+        "mae8bit": 0.0003,
+        "maxError8bit": 1
+      },
+      "note": "Surface height and refraction are expected to change with remaining sand."
+    }
+  ],
+  "note": "Different output resolution and grain time mapping can change stochastic samples; inspect the board."
+}

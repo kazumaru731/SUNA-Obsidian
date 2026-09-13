@@ -1,0 +1,107 @@
+{
+  "passed": true,
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+  "encoderSignature": "9dc3e7b1f323ca7cce20d2b771b16f157f5fdefe496a0ab36b7802629cb337e7",
+  "reviewedAtUTC": "2026-09-12T14:55:53Z",
+  "visualReview": {
+    "reviewer": "Codex",
+    "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f",
+    "method": "元HEROと同一解像度の再描画、拡大画像、デノイズ前後、ループ境界の連続フレーム、復号後の動画フレームを比較。実機検証ではない。",
+    "referenceAppearance": {
+      "passed": true,
+      "observation": "元のGenerated座標を残す修正後、下側の砂の凹凸模様も原本と一致。50%の原本再描画との平均絶対差は8bit換算0.007。ガラス・金属・刻印・床・構図を保持。"
+    },
+    "sandDenoising": {
+      "passed": true,
+      "observation": "同じ192サンプルのデノイズなし画像と3倍拡大で比較。落下粒と着地粒は判別でき、主な粒列の消失は見られない。微細な輪郭はOIDNで滑らかになる。"
+    },
+    "seamContinuity": {
+      "passed": true,
+      "observation": "50%・1%・100%の44,45,46,47,0,1,2,3フレームを拡大比較。境界で列全体の不自然な入れ替わりは見られない。復号後の粒領域の境界MAEは50%=5.2662、1%=4.322、100%=5.0786で、通常フレーム間の範囲内。0%は復号後の全フレームが同一。全101状態の軌道の片側極限と接地点リセットも数値検証済み。"
+    },
+    "adjacentBlends": {
+      "passed": true,
+      "observation": "49↔50、50↔51、1↔0の画像と、納品MP4を同位相・線形光で混合した35秒映像の復号代表フレーム（20〜34秒）を確認。ガラス・金属の大きな二重輪郭は見られず、1→0では粒列が薄くなり終了状態へ移る。49.5%・50.5%の直接Cycles描画とも比較し、細粒のわずかな軟化は残るものの採用可能と判断。確認映像840フレームすべての復号・時刻・色タグも検証済み。"
+    },
+    "phoneSizeCompression": {
+      "passed": true,
+      "observation": "PNGと復号後MP4を352px幅で比較し、SUNA刻印の輪郭・金属・砂の質感が保たれることを確認。6試作すべての全フレームでPSNR 43.308dB以上、最大平均絶対差1.0107/255。新たな黒つぶれ・白飛びの検査も合格。352pxはPC上の表示サイズ比較であり、iPhone実機試験ではない。"
+    },
+    "limitations": [
+      "映像同士の混合は中間形状の3D描画と完全には一致せず、拡大時の細粒にはわずかな軟化が残る。",
+      "iPhoneでの色表示・密度・再生同期はMac側で確認が必要。"
+    ]
+  },
+  "evidence": [
+    {
+      "path": "previews/reference_comparison.png",
+      "sha256": "074f90831cd45492035105776269229cffc306e70fe71489f373d9fb405ee0fc"
+    },
+    {
+      "path": "previews/loop_and_transition_check.mp4",
+      "sha256": "4da402eafca23886f09f6bffd8647ff28aaf04dba055712c1f47b31271e63e7b"
+    },
+    {
+      "path": "previews/transition_detail.png",
+      "sha256": "83dd995ed73b195c98eabce6778ac74ddf722fbfd1d427e1989c0a4e6d58cbb3"
+    },
+    {
+      "path": "previews/compression_comparison.png",
+      "sha256": "3ab5e22520b44e6df78a729ea93dae77b6d06da2cf88b6eb87921ec6f02ce65a"
+    },
+    {
+      "path": "previews/denoising_comparison.png",
+      "sha256": "c752d369fc934275318fbfbd5cd62b5ed007810816fb9758285ccaa1a19c584a"
+    },
+    {
+      "path": "previews/seam_contact.png",
+      "sha256": "c08b1f435029c1a998de8f7980844364785a634df79683deb08151d670039647"
+    },
+    {
+      "path": "previews/phone_size_comparison.png",
+      "sha256": "34f476a2f9057be9e7b010bdfa3dc8de3c6ad7226789e984b4c36eb923ebf6f8"
+    },
+    {
+      "path": "previews/decoded_transition_contact.png",
+      "sha256": "2a9d39fec805a22a8e8b3da1574cd388fc88771d256dea6089d4be0a4cbfef69"
+    },
+    {
+      "path": "previews/true_midpoint_comparison.png",
+      "sha256": "06d15fce64ce785f742019e018f60bd3c49be07ea89ee2598fd1556258a6bfd7"
+    }
+  ],
+  "pilotClips": [
+    {
+      "remainingFraction": 0.0,
+      "path": "clips/remaining_000.mp4",
+      "sha256": "20980d0d9beead3f1c273ca6c9b1fe78e4c38feaebdc6e9f01445dad5983b290"
+    },
+    {
+      "remainingFraction": 0.01,
+      "path": "clips/remaining_001.mp4",
+      "sha256": "762e6acd6feb79ee37449fd8e3d3755d5c9143a3e0216ffecd92d8973ac205db"
+    },
+    {
+      "remainingFraction": 0.49,
+      "path": "clips/remaining_049.mp4",
+      "sha256": "a6b1a160d3d843205fb226b3a3c1c2279361cc0f4cd24b09bb022c0ef35c8dcc"
+    },
+    {
+      "remainingFraction": 0.5,
+      "path": "clips/remaining_050.mp4",
+      "sha256": "c2fdcbc8ee6a2af3505b44e4c3cde7a01c22223f413cdf058c33ac81ef4d8f86"
+    },
+    {
+      "remainingFraction": 0.51,
+      "path": "clips/remaining_051.mp4",
+      "sha256": "79cdcde101be9368408ea3fb1f7d689e1333a4f7eb7b0f7a0607367805f51741"
+    },
+    {
+      "remainingFraction": 1.0,
+      "path": "clips/remaining_100.mp4",
+      "sha256": "055ecbbd8c2efd1316df7fb9fabfcc4f77f970c948e22286c20c5d5d732ce1f6"
+    }
+  ],
+  "fullProductionAuthorizedBy": "The supplied BLENDER_HANDOFF_JA.md requests full generation after a passing pilot.",
+  "actualIPhoneReview": "Not performed on this Windows PC; Mac team responsibility."
+}

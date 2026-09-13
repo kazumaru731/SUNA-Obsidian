@@ -1,0 +1,95 @@
+{
+  "passed": true,
+  "streams": 1,
+  "audioStreams": 0,
+  "frameCount": 840,
+  "durationSeconds": 35.0,
+  "firstFrameIDR": true,
+  "firstPTS": 0.0,
+  "lastPTS": 34.958333,
+  "constantFrameRate": true,
+  "stream": {
+    "codec_name": "h264",
+    "profile": "High",
+    "pix_fmt": "yuv420p",
+    "width": 880,
+    "height": 1056,
+    "sample_aspect_ratio": "1:1",
+    "r_frame_rate": "24/1",
+    "avg_frame_rate": "24/1",
+    "color_range": "tv",
+    "color_space": "bt709",
+    "color_transfer": "bt709",
+    "color_primaries": "bt709"
+  },
+  "sha256": "4da402eafca23886f09f6bffd8647ff28aaf04dba055712c1f47b31271e63e7b",
+  "timeline": [
+    {
+      "startSeconds": 0,
+      "endSeconds": 5,
+      "kind": "loop",
+      "remainingPercent": [
+        100,
+        100
+      ]
+    },
+    {
+      "startSeconds": 5,
+      "endSeconds": 10,
+      "kind": "loop",
+      "remainingPercent": [
+        50,
+        50
+      ]
+    },
+    {
+      "startSeconds": 10,
+      "endSeconds": 15,
+      "kind": "loop",
+      "remainingPercent": [
+        1,
+        1
+      ]
+    },
+    {
+      "startSeconds": 15,
+      "endSeconds": 20,
+      "kind": "loop",
+      "remainingPercent": [
+        0,
+        0
+      ]
+    },
+    {
+      "startSeconds": 20,
+      "endSeconds": 25,
+      "kind": "blend",
+      "remainingPercent": [
+        49,
+        50
+      ]
+    },
+    {
+      "startSeconds": 25,
+      "endSeconds": 30,
+      "kind": "blend",
+      "remainingPercent": [
+        50,
+        51
+      ]
+    },
+    {
+      "startSeconds": 30,
+      "endSeconds": 35,
+      "kind": "blend",
+      "remainingPercent": [
+        1,
+        0
+      ]
+    }
+  ],
+  "mixing": "Decoded delivered MP4 frames, synchronized phase, linear-light sRGB blending",
+  "videoSource": "Validated H.264 clips, decoded from tagged BT.709 into sRGB before linear-light blending",
+  "reviewOnly": true,
+  "renderSignature": "9d28f5cc5c1bb7ced45051750618232f9c3aff603b33d7503415782b7a5d405f"
+}

@@ -1,0 +1,10 @@
+tools/
+handoff/
+*.partial.*
+STOP_AFTER_FRAME
+checks/batch.lock
+checks/noisy_*.png
+checks/recovery_*/
+checks/render_events.jsonl
+checks/batch_status.json
+checks/worker_status.json
