@@ -1,0 +1,271 @@
+{
+  "passed": true,
+  "videoSha256": "c88a34af7a0236b44cc249615b27073c7907760df4c08a416971049243a766e6",
+  "sourcePreserved": true,
+  "metadata": {
+    "passed": true,
+    "streams": 1,
+    "audioStreams": 0,
+    "frameCount": 30,
+    "durationSeconds": 1.25,
+    "firstFrameIDR": true,
+    "firstPTS": 0.0,
+    "lastPTS": 1.208333,
+    "constantFrameRate": true,
+    "stream": {
+      "codec_name": "h264",
+      "profile": "High",
+      "pix_fmt": "yuv420p",
+      "width": 880,
+      "height": 1056,
+      "sample_aspect_ratio": "1:1",
+      "r_frame_rate": "24/1",
+      "avg_frame_rate": "24/1",
+      "color_range": "tv",
+      "color_space": "bt709",
+      "color_transfer": "bt709",
+      "color_primaries": "bt709"
+    }
+  },
+  "allFramesDecoded": true,
+  "frameQuality": [
+    {
+      "frame": 0,
+      "psnrDb": 44.692,
+      "mae8bit": 0.8915,
+      "maxError8bit": 47
+    },
+    {
+      "frame": 1,
+      "psnrDb": 44.669,
+      "mae8bit": 0.898,
+      "maxError8bit": 33
+    },
+    {
+      "frame": 2,
+      "psnrDb": 44.652,
+      "mae8bit": 0.9006,
+      "maxError8bit": 33
+    },
+    {
+      "frame": 3,
+      "psnrDb": 43.487,
+      "mae8bit": 0.9938,
+      "maxError8bit": 42
+    },
+    {
+      "frame": 4,
+      "psnrDb": 43.312,
+      "mae8bit": 1.0107,
+      "maxError8bit": 56
+    },
+    {
+      "frame": 5,
+      "psnrDb": 43.203,
+      "mae8bit": 1.0203,
+      "maxError8bit": 41
+    },
+    {
+      "frame": 6,
+      "psnrDb": 43.252,
+      "mae8bit": 1.017,
+      "maxError8bit": 39
+    },
+    {
+      "frame": 7,
+      "psnrDb": 43.388,
+      "mae8bit": 1.0078,
+      "maxError8bit": 44
+    },
+    {
+      "frame": 8,
+      "psnrDb": 43.503,
+      "mae8bit": 0.9955,
+      "maxError8bit": 38
+    },
+    {
+      "frame": 9,
+      "psnrDb": 43.417,
+      "mae8bit": 0.996,
+      "maxError8bit": 44
+    },
+    {
+      "frame": 10,
+      "psnrDb": 43.551,
+      "mae8bit": 0.9817,
+      "maxError8bit": 49
+    },
+    {
+      "frame": 11,
+      "psnrDb": 43.303,
+      "mae8bit": 0.9878,
+      "maxError8bit": 45
+    },
+    {
+      "frame": 12,
+      "psnrDb": 43.26,
+      "mae8bit": 0.9759,
+      "maxError8bit": 44
+    },
+    {
+      "frame": 13,
+      "psnrDb": 43.303,
+      "mae8bit": 0.9717,
+      "maxError8bit": 45
+    },
+    {
+      "frame": 14,
+      "psnrDb": 43.534,
+      "mae8bit": 0.9594,
+      "maxError8bit": 50
+    },
+    {
+      "frame": 15,
+      "psnrDb": 43.772,
+      "mae8bit": 0.9457,
+      "maxError8bit": 41
+    },
+    {
+      "frame": 16,
+      "psnrDb": 43.516,
+      "mae8bit": 0.9654,
+      "maxError8bit": 51
+    },
+    {
+      "frame": 17,
+      "psnrDb": 43.168,
+      "mae8bit": 0.9836,
+      "maxError8bit": 60
+    },
+    {
+      "frame": 18,
+      "psnrDb": 43.346,
+      "mae8bit": 0.9911,
+      "maxError8bit": 43
+    },
+    {
+      "frame": 19,
+      "psnrDb": 43.42,
+      "mae8bit": 0.9989,
+      "maxError8bit": 49
+    },
+    {
+      "frame": 20,
+      "psnrDb": 43.4,
+      "mae8bit": 1.0033,
+      "maxError8bit": 44
+    },
+    {
+      "frame": 21,
+      "psnrDb": 43.674,
+      "mae8bit": 0.979,
+      "maxError8bit": 39
+    },
+    {
+      "frame": 22,
+      "psnrDb": 43.875,
+      "mae8bit": 0.9669,
+      "maxError8bit": 35
+    },
+    {
+      "frame": 23,
+      "psnrDb": 43.913,
+      "mae8bit": 0.9617,
+      "maxError8bit": 50
+    },
+    {
+      "frame": 24,
+      "psnrDb": 43.945,
+      "mae8bit": 0.9602,
+      "maxError8bit": 39
+    },
+    {
+      "frame": 25,
+      "psnrDb": 43.967,
+      "mae8bit": 0.9538,
+      "maxError8bit": 40
+    },
+    {
+      "frame": 26,
+      "psnrDb": 44.094,
+      "mae8bit": 0.9357,
+      "maxError8bit": 39
+    },
+    {
+      "frame": 27,
+      "psnrDb": 43.953,
+      "mae8bit": 0.9468,
+      "maxError8bit": 39
+    },
+    {
+      "frame": 28,
+      "psnrDb": 43.948,
+      "mae8bit": 0.9465,
+      "maxError8bit": 39
+    },
+    {
+      "frame": 29,
+      "psnrDb": 43.935,
+      "mae8bit": 0.9481,
+      "maxError8bit": 39
+    }
+  ],
+  "originalLoopEndpointComparison": {
+    "psnrDb": 90.488,
+    "mae8bit": 0.0001,
+    "maxError8bit": 2
+  },
+  "originalLoopLastPhaseComparison": {
+    "psnrDb": 91.649,
+    "mae8bit": 0.0,
+    "maxError8bit": 1
+  },
+  "decodedSeamDifference": {
+    "psnrDb": 40.076,
+    "mae8bit": 0.9865,
+    "maxError8bit": 126
+  },
+  "masterSha256": [
+    "ccfb9aaaab5af91d47280d42e28ce0d36c8a577ef02a95c0730e174eea09b8f9",
+    "ccb7fefb954d2918dc03843d6b2775e2aa41fc260c17db564cec9325acd0b121",
+    "b464c021e2b90a217834e7c218b47237a8ad5b3872df1bd7515f7d566f50cd09",
+    "656c6dd30f7405e29db3aaae2be230d2267e5a09f61f0fadd8888565460d03b0",
+    "20ce408dad74a9a4cda8e4c68f1e7eae6dc39d5ecd6bf010af70ae1a6586c757",
+    "76a9054e77163998db65c66082e6a56ab62f000b39633acab0de7369b8fbde00",
+    "d498db66afe9c8a1667a0eb743fc879777171bdb6688c64b2f9a3a7b2cdba82f",
+    "8083cda60b6b39c1342d3049d35a3c6f50064651c1cbbc960c54a71d16ee022c",
+    "85f3e6c2b45039877a528b0a1b5030b51d861039d3bd155049ff57d691a32e21",
+    "58d3df0bc99e51aceaa90a4a99e76cc9ba78b0dc3a36a5cf086d6f45511c96e6",
+    "4389d0660ac321769925e9c5a01b0317a13822e509c5b0fd9ec2296dbe721ab1",
+    "674c15666297573c243e7fbe5e1df5ce8a4978307cfde6a6516700e1a8780056",
+    "d4fa8582ef19ff4f1fa98f41bf92abdf0ba3b28c36189278bc9bcdcc350b62d1",
+    "a31836811862113ccb2c6a18b9a1cf78df2c6055d8bf3f8c39a323afad505d63",
+    "b4d08b6d56c0ef6484dafed010840e533c90ad0b03478f4d58cb94fb9f33b527",
+    "4cf6683e9f7838116321cb7fb38b056e87a8109eb81c6456177d327b10db7492",
+    "07a2eac6e0c07e23f45e3352e1122265dc1398198b40247b9abe7dbd8f4c5c2d",
+    "b4cf0a74230b13e1781cdb9e60693d1fde0c88f8270d67eb23b2e662075060f9",
+    "6006ed953aabe5d0abb52de34b6eb026cfc954041f3abe1a569166592c397763",
+    "0fe26547d9b44ae2c2033fb458708819f009e0e02c2a243fdfee4e4769197103",
+    "68265bfe7e1ae9d2ea941c8e58b9dd9be2b5831c2aaf2bae0350b052c43a624f",
+    "6e9e2c1a57a821256daec69d79997a1ba6295e2b7e0c9230aa59e6a73e63892b",
+    "0b67ce9c5151c289d84dba3cf9b224b05d285f14286bf094444ffcb83204cd9d",
+    "0e6c5e0983ba0d537cd0ac69479ed3a8e9bf66b19399d93ce590e226666b58da",
+    "0ca5156b89bf37f3b581f4e1f8e2e0d56e89176c5263c16b9c3565480c5cebdd",
+    "75f02537a81ad8ee78eae1317c27853daa17ec4719897a9133824156a23ee954",
+    "b7fad49792d8a88f4190329a8639c8da48bdad0ef0ae8cd073aec99ed80099fd",
+    "4cdce3eb76e1a36a67598aa42f3f5c6d4effb0ea9b197b3552a1a29c45418fe5",
+    "a1166c2e6f644f5a76877428f4702791074bdbc6606cf0eed1e118dee2ccb2f8",
+    "aa7fa8f8f735997db828d60cecb8ca4701f2bc84633e7eb0e98309bcd7e78f3e",
+    "7209da2f77d977d47207b3cc98d4d9131ed5c25d530e27eb4188ed3b76bac9db"
+  ],
+  "icon": {
+    "width": 1024,
+    "height": 1024,
+    "mode": "RGB",
+    "bitDepth": 8,
+    "alpha": false
+  },
+  "visualReview": "checks/visual_review.json",
+  "iPhoneDeviceTest": "not performed",
+  "visualReviewPassed": true
+}

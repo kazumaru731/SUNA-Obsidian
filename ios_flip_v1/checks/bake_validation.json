@@ -1,0 +1,301 @@
+{
+  "method": "Volume-constrained gravity-oriented bed plus ballistic surface grains; art-directed, not DEM.",
+  "gravityWorld": [
+    0.0,
+    0.0,
+    -245.25
+  ],
+  "sceneUnitMeters": 0.04,
+  "frameCount": 30,
+  "fps": 24,
+  "durationSeconds": 1.25,
+  "bakedSamplesIncludingEndpoint": 31,
+  "targetVolume": 0.849160317804111,
+  "samples": [
+    {
+      "frame": 0,
+      "time": 0.0,
+      "angleDegrees": 180.0,
+      "sandVolume": 0.849130469755439,
+      "minGlassClearance": 0.029000000059202447,
+      "worldFreeSurfaceUpDot": 1.0,
+      "lift": 0.0
+    },
+    {
+      "frame": 1,
+      "time": 0.041666666666666664,
+      "angleDegrees": 180.0,
+      "sandVolume": 0.849130469755439,
+      "minGlassClearance": 0.029000000059202447,
+      "worldFreeSurfaceUpDot": 1.0,
+      "lift": 0.0
+    },
+    {
+      "frame": 2,
+      "time": 0.08333333333333333,
+      "angleDegrees": 180.0,
+      "sandVolume": 0.849130469755439,
+      "minGlassClearance": 0.029000000059202447,
+      "worldFreeSurfaceUpDot": 1.0,
+      "lift": 0.0
+    },
+    {
+      "frame": 3,
+      "time": 0.125,
+      "angleDegrees": 179.84227046090987,
+      "sandVolume": 0.8492313019439384,
+      "minGlassClearance": 0.029000000014671068,
+      "worldFreeSurfaceUpDot": 0.9999983552185662,
+      "lift": 0.0025042565864015396
+    },
+    {
+      "frame": 4,
+      "time": 0.16666666666666666,
+      "angleDegrees": 178.8253410410367,
+      "sandVolume": 0.8491359172461138,
+      "minGlassClearance": 0.029000000014671068,
+      "worldFreeSurfaceUpDot": 0.9999504116003084,
+      "lift": 0.018342104199620905
+    },
+    {
+      "frame": 5,
+      "time": 0.20833333333333334,
+      "angleDegrees": 176.3184332913177,
+      "sandVolume": 0.8491230215526736,
+      "minGlassClearance": 0.02900000003740122,
+      "worldFreeSurfaceUpDot": 0.9997076476714155,
+      "lift": 0.055083376334087386
+    },
+    {
+      "frame": 6,
+      "time": 0.25,
+      "angleDegrees": 171.91709458494512,
+      "sandVolume": 0.8491926150282545,
+      "minGlassClearance": 0.029000000011191407,
+      "worldFreeSurfaceUpDot": 0.999091880980789,
+      "lift": 0.11149315544184613
+    },
+    {
+      "frame": 7,
+      "time": 0.2916666666666667,
+      "angleDegrees": 165.41805080378265,
+      "sandVolume": 0.8491819405133464,
+      "minGlassClearance": 0.02900000003787051,
+      "worldFreeSurfaceUpDot": 0.997995873733699,
+      "lift": 0.1753328822349886
+    },
+    {
+      "frame": 8,
+      "time": 0.3333333333333333,
+      "angleDegrees": 156.79405902478095,
+      "sandVolume": 0.8491439833151292,
+      "minGlassClearance": 0.02900000000767944,
+      "worldFreeSurfaceUpDot": 0.9964306340760205,
+      "lift": 0.22303614754740322
+    },
+    {
+      "frame": 9,
+      "time": 0.375,
+      "angleDegrees": 146.16876020639424,
+      "sandVolume": 0.8491154751478973,
+      "minGlassClearance": 0.029000000002896487,
+      "worldFreeSurfaceUpDot": 0.9945266472827705,
+      "lift": 0.22245227828855998
+    },
+    {
+      "frame": 10,
+      "time": 0.4166666666666667,
+      "angleDegrees": 133.79153187499608,
+      "sandVolume": 0.8491225941373294,
+      "minGlassClearance": 0.02900000000590086,
+      "worldFreeSurfaceUpDot": 0.9925054404488368,
+      "lift": 0.13942010516020395
+    },
+    {
+      "frame": 11,
+      "time": 0.4583333333333333,
+      "angleDegrees": 120.01234081129579,
+      "sandVolume": 0.8491214823853515,
+      "minGlassClearance": 0.02900000001409153,
+      "worldFreeSurfaceUpDot": 0.9906348433071438,
+      "lift": 0.10391012277627
+    },
+    {
+      "frame": 12,
+      "time": 0.5,
+      "angleDegrees": 105.25659573675419,
+      "sandVolume": 0.8492028072411713,
+      "minGlassClearance": 0.029000000008177818,
+      "worldFreeSurfaceUpDot": 0.9891785703318727,
+      "lift": 0.11577084455843255
+    },
+    {
+      "frame": 13,
+      "time": 0.5416666666666666,
+      "angleDegrees": 90.0,
+      "sandVolume": 0.8491179031281848,
+      "minGlassClearance": 0.029000000000660497,
+      "worldFreeSurfaceUpDot": 0.9883488053008985,
+      "lift": 0.12
+    },
+    {
+      "frame": 14,
+      "time": 0.5833333333333334,
+      "angleDegrees": 74.74340426324576,
+      "sandVolume": 0.8491699264340621,
+      "minGlassClearance": 0.029000000011859428,
+      "worldFreeSurfaceUpDot": 0.9882689138101166,
+      "lift": 0.11577084455843252
+    },
+    {
+      "frame": 15,
+      "time": 0.625,
+      "angleDegrees": 59.98765918870417,
+      "sandVolume": 0.8491224684696584,
+      "minGlassClearance": 0.029000000006069282,
+      "worldFreeSurfaceUpDot": 0.9889517616464498,
+      "lift": 0.10391012277626994
+    },
+    {
+      "frame": 16,
+      "time": 0.6666666666666666,
+      "angleDegrees": 46.208468125003904,
+      "sandVolume": 0.8491388715873466,
+      "minGlassClearance": 0.02900000000433156,
+      "worldFreeSurfaceUpDot": 0.9902970061472458,
+      "lift": 0.13942010516020414
+    },
+    {
+      "frame": 17,
+      "time": 0.7083333333333334,
+      "angleDegrees": 33.831239793605704,
+      "sandVolume": 0.8492075593464524,
+      "minGlassClearance": 0.02900000000499403,
+      "worldFreeSurfaceUpDot": 0.9921080695974586,
+      "lift": 0.22245227828856012
+    },
+    {
+      "frame": 18,
+      "time": 0.75,
+      "angleDegrees": 23.205940975219086,
+      "sandVolume": 0.8491050725293268,
+      "minGlassClearance": 0.029000000008012283,
+      "worldFreeSurfaceUpDot": 0.9941265462744746,
+      "lift": 0.22303614754740353
+    },
+    {
+      "frame": 19,
+      "time": 0.7916666666666666,
+      "angleDegrees": 14.581949196217346,
+      "sandVolume": 0.8491299381585505,
+      "minGlassClearance": 0.029000000000402815,
+      "worldFreeSurfaceUpDot": 0.9960789753372687,
+      "lift": 0.1753328822349882
+    },
+    {
+      "frame": 20,
+      "time": 0.8333333333333334,
+      "angleDegrees": 8.08290541505476,
+      "sandVolume": 0.8491835280092944,
+      "minGlassClearance": 0.02900000001130454,
+      "worldFreeSurfaceUpDot": 0.9977285921471023,
+      "lift": 0.11149315544184504
+    },
+    {
+      "frame": 21,
+      "time": 0.875,
+      "angleDegrees": 3.681566708682295,
+      "sandVolume": 0.8491541285934168,
+      "minGlassClearance": 0.029000000000039716,
+      "worldFreeSurfaceUpDot": 0.9989229052561345,
+      "lift": 0.05508337633408686
+    },
+    {
+      "frame": 22,
+      "time": 0.9166666666666666,
+      "angleDegrees": 1.1746589589634526,
+      "sandVolume": 0.848532503763903,
+      "minGlassClearance": 0.026120986336822208,
+      "worldFreeSurfaceUpDot": 0.9996264331724218,
+      "lift": 0.018342104199622754
+    },
+    {
+      "frame": 23,
+      "time": 0.9583333333333334,
+      "angleDegrees": 0.1577295390902278,
+      "sandVolume": 0.8472665961999232,
+      "minGlassClearance": 0.020051445688386932,
+      "worldFreeSurfaceUpDot": 0.9999261906599588,
+      "lift": 0.002504256586403134
+    },
+    {
+      "frame": 24,
+      "time": 1.0,
+      "angleDegrees": 0.0,
+      "sandVolume": 0.8473597868626043,
+      "minGlassClearance": 0.012937575446036971,
+      "worldFreeSurfaceUpDot": 0.9999951894795295,
+      "lift": 1.4695761589768237e-17
+    },
+    {
+      "frame": 25,
+      "time": 1.0416666666666667,
+      "angleDegrees": 0.0,
+      "sandVolume": 0.8487045688299535,
+      "minGlassClearance": 0.008057342917089969,
+      "worldFreeSurfaceUpDot": 0.9999998283891599,
+      "lift": 1.4695761589768237e-17
+    },
+    {
+      "frame": 26,
+      "time": 1.0833333333333333,
+      "angleDegrees": 0.0,
+      "sandVolume": 0.849160317804111,
+      "minGlassClearance": 0.0069994621639874605,
+      "worldFreeSurfaceUpDot": 0.9999999938779556,
+      "lift": 1.4695761589768237e-17
+    },
+    {
+      "frame": 27,
+      "time": 1.125,
+      "angleDegrees": 0.0,
+      "sandVolume": 0.849160317804111,
+      "minGlassClearance": 0.0069994621639874605,
+      "worldFreeSurfaceUpDot": 0.9999999997816023,
+      "lift": 1.4695761589768237e-17
+    },
+    {
+      "frame": 28,
+      "time": 1.1666666666666667,
+      "angleDegrees": 0.0,
+      "sandVolume": 0.849160317804111,
+      "minGlassClearance": 0.0069994621639874605,
+      "worldFreeSurfaceUpDot": 0.9999999999922089,
+      "lift": 1.4695761589768237e-17
+    },
+    {
+      "frame": 29,
+      "time": 1.2083333333333333,
+      "angleDegrees": 0.0,
+      "sandVolume": 0.849160317804111,
+      "minGlassClearance": 0.0069994621639874605,
+      "worldFreeSurfaceUpDot": 0.9999999999997221,
+      "lift": 1.4695761589768237e-17
+    },
+    {
+      "frame": 30,
+      "time": 1.25,
+      "angleDegrees": 0.0,
+      "sandVolume": 0.849160317804111,
+      "minGlassClearance": 0.0069994621639874605,
+      "worldFreeSurfaceUpDot": 0.9999999999999901,
+      "lift": 1.4695761589768237e-17
+    }
+  ],
+  "minTriangleGlassClearance": 0.005301025041975119,
+  "minParticleGlassClearanceIncludingRadius": 0.008999999999999902,
+  "terminalOriginalMeshMaxError": 0.0,
+  "maxRelativeVolumeError": 0.0022301108100352086,
+  "localBedMotion": 0.46966353058815,
+  "passed": true
+}

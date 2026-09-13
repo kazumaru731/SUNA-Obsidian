@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "passed": true,
+  "reviewedAt": "2026-09-14",
+  "videoSha256": "c88a34af7a0236b44cc249615b27073c7907760df4c08a416971049243a766e6",
+  "method": "Inspected the full 30-frame master contact sheet, representative decoded MP4 frames, six decoded frames across the transition, and the icon at 60/80/120 pixels. Combined with full video decoding, geometry clearance and endpoint comparisons. This is desktop image/frame review, not iPhone playback testing.",
+  "evidence": [
+    "previews/all_frames.png",
+    "previews/decoded_contact.png",
+    "previews/decoded_transition.png",
+    "previews/transition_match.png",
+    "previews/icon_sizes.png"
+  ],
+  "checks": {
+    "cameraAndStudioRemainFixed": true,
+    "bodyRotates180DegreesAndReturnsToOriginalPose": true,
+    "liftFloorShadowAndReflectionsPresent": true,
+    "sandMovesRelativeToGlassTowardWorldDown": true,
+    "noVisibleSandWallPenetration": true,
+    "wholeBodyRemainsInsideFrame": true,
+    "original100PercentLoopMatchesAtJoin": true,
+    "noBlankOrMissingFrames": true,
+    "iconSilhouetteReadableAtSmallSizes": true
+  },
+  "observations": [
+    "The bulk bed remains in the same physical bulb while its free surface slides relative to the turning glass.",
+    "The camera and floor are stationary; reflections and the contact shadow change with the rotating object.",
+    "The polished crown brightens while crossing the studio light reflection, then returns to the original appearance.",
+    "The final pose and amount match the existing 100% clip. The flowing-grain phase follows 47 -> 0 at the cut.",
+    "At icon sizes the hourglass outline and two sand reservoirs remain readable; tiny lettering is decorative."
+  ],
+  "limitations": [
+    "Sand uses a volume-constrained, gravity-oriented mesh and ballistic surface grains. It is an art-directed bake rather than particle-to-particle DEM physics.",
+    "The app implementation, timer/alarm tests and installation are assigned to the Mac environment."
+  ]
+}

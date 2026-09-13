@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 1,
+  "assetSet": "SUNA start flip and app icon v1",
+  "status": "complete_assets",
+  "sourceSha256": "af18c618df4c096ff7580d97f963bd9ba9ec38cc43f8c0d654a9cc3ba879da9f",
+  "blenderVersion": "5.0.1",
+  "width": 880,
+  "height": 1056,
+  "fps": 24,
+  "frameCount": 30,
+  "durationSeconds": 1.25,
+  "videoColor": "BT.709 limited range H.264 High / yuv420p",
+  "startState": "Inverted vessel, all sand in the world-lower bulb; use prepare_bottom.png.",
+  "nextAsset": "../ios_cycles_v1/clips/remaining_100.mp4",
+  "nextPhaseSeconds": 0,
+  "nextRemainingFraction": 1,
+  "timerStartsAfterFlip": true,
+  "loopFlip": false,
+  "backgroundAndCameraFixed": true,
+  "assets": [
+    {
+      "path": "clips/start_flip.mp4",
+      "role": "one_shot_start_flip",
+      "sha256": "c88a34af7a0236b44cc249615b27073c7907760df4c08a416971049243a766e6",
+      "bytes": 1128851
+    },
+    {
+      "path": "stills/prepare_bottom.png",
+      "role": "preparing_static",
+      "sha256": "ccfb9aaaab5af91d47280d42e28ce0d36c8a577ef02a95c0730e174eea09b8f9",
+      "bytes": 3483387
+    },
+    {
+      "path": "icons/AppIcon1024.png",
+      "role": "app_icon_1x1",
+      "sha256": "39c67aad13010f2528032521e2fc4dab2557dfd20b006419fa551449fe121a9a",
+      "bytes": 575826
+    },
+    {
+      "path": "blend/SUNA_flip_baked.blend",
+      "role": "editable_baked_blender_scene",
+      "sha256": "53728f285ea3153a5abfc011d387bf8c5802bb3c2dd09abe747e1b6ee822b33e",
+      "bytes": 10619895
+    }
+  ],
+  "validation": "checks/delivery_validation.json",
+  "appIntegrationStatus": "Mac-side responsibility; this delivery contains Blender assets only",
+  "sandMethod": "Baked gravity-oriented volume-constrained surface plus gravity-driven contact particles; not a full DEM simulation."
+}

@@ -1,0 +1,10 @@
+masters/
+bake/
+*.blend1
+*.partial.*
+*.log
+__pycache__/
+handoff/
+STOP_AFTER_FRAME
+previews/draft/
+checks/render_status.json
